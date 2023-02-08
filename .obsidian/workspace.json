@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "736e2b3a0449642d",
+        "id": "229f0fbe6dbf157c",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb1965aff37c6d2",
+            "id": "efb9d0a4601d873c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematics/Root Test.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52d0054a6874d82e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Comparison Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematics/Comparison Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematics/Comparison Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mathematics/Comparison Test.md"
               }
             }
           }
@@ -146,6 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb1965aff37c6d2",
-  "lastOpenFiles": []
+  "active": "52d0054a6874d82e",
+  "lastOpenFiles": [
+    "Mathematics/Limit Comparison Test.md",
+    "Mathematics/Ratio Test.md",
+    "Mathematics/Root Test.md",
+    "Mathematics/Comparison Test.md",
+    "README.md",
+    "Mathematics/a.md"
+  ]
 }

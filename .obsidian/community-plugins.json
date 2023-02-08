@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "mathlinks"
+  "mathlinks",
+  "obsidian-vimrc-support",
+  "obsidian-admonition",
+  "obsidian-latex"
 ]
