@@ -1,6 +1,6 @@
-> [!Theorem]
-
 **Tags:** 
+###### 
+> [!Theorem]+
 
 #### Proof
 

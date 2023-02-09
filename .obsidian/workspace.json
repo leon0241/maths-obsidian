@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "229f0fbe6dbf157c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c333913dba56113c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "d0aefc263e1de96b"
-          }
-        ]
-      },
-      {
         "id": "320977e81a8fef3e",
         "type": "tabs",
         "children": [
           {
-            "id": "1debfbca8fa6c38f",
+            "id": "7ba3ef9e9be9311f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
-                "mode": "preview",
+                "file": "Mathematics/Individuals/Cauchy's Condensation Test.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "d0aefc263e1de96b"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
+                "file": "Mathematics/Individuals/Cauchy's Condensation Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md",
+                "file": "Mathematics/Individuals/Cauchy's Condensation Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Proving a Series is Convergent.md"
+                "file": "Mathematics/Individuals/Cauchy's Condensation Test.md"
               }
             }
           }
@@ -153,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +145,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c333913dba56113c",
+  "active": "7ba3ef9e9be9311f",
   "lastOpenFiles": [
-    "Mathematics/Infinite Series.md",
+    "Mathematics/Individuals/Limit Comparison Test.md",
+    "Mathematics/Individuals/Integral Test.md",
+    "Mathematics/Individuals/Order Axioms of R.md",
+    "Mathematics/Individuals/P-series test.md",
+    "Mathematics/Individuals/Peano Axioms to define N and Z.md",
     "Mathematics/Proving a Series is Convergent.md",
-    "Mathematics/P-series test.md",
-    "Mathematics/Limit Comparison Test.md",
-    "Mathematics/Comparison Test.md",
-    "Mathematics/Root Test.md",
-    "Mathematics/Integral Test.md",
-    "Mathematics/Divergence Test.md",
-    "Mathematics/Cauchy's Condensation Test.md",
-    "Mathematics/Bounded Theorem.md"
+    "Mathematics/Defining the Real Numbers.md",
+    "Mathematics/Individuals/Defining Subsets of R (N,Z,Q).md",
+    "Mathematics/Individuals/Archimedean Principle.md",
+    "Mathematics/Individuals/Creating the idea of mathematical Induction.md"
   ]
 }

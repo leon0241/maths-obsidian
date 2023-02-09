@@ -2,7 +2,10 @@
 ![[Divergence Test#Divergence Test]]
 
 ![[Bounded Theorem#Bounded Theorem]]
+
 ![[Comparison Test#Comparison Test]]
+
+![[Limit Comparison Test#Limit Comparison Test]]
 
 ![[Root Test#Root Test]]
 
