@@ -1,9 +1,9 @@
->[!Theorem]
+**Tags:** #Theorem #Analysis/Series #Course/FPM
+###### [[Comparison Test]]
+>[!Theorem]+
 > Let $(a_n)_{n\in\N}$ and $(b_n)_{n\in\N}$ be two sequences such that $0\leq a_n\leq b_n$ for all n.
 > 1. If $\sum_n b_n$ converges, then $\sum_n a_n$ converges as well.
 > 2. If $\sum_n a_n$ diverges, then $\sum_n b_n$ diverges as well.
-
-**Tags:** #Theorem #Analysis/Series #Course/FPM
 
 #### Proof
 We prove the first part (the second part is the contrapositive of the first part).

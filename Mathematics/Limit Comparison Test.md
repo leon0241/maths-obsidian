@@ -1,8 +1,9 @@
-> [!Theorem]
+**Tags:** #Theorem #Analysis/Series #Course/FPM
+
+###### [[Limit Comparison Test]]
+> [!Theorem]+
 **Limit comparison test**
 Let $(a_n)_{n\in\N}$ and $(b_n)_{n\in\N}$ be two real sequences with $a_n\geq0$ and $b_n\geq0$ for all n. Assume that $\dfrac{a_n}{b_n} \to L$ for some $L\in(0,\infty)$. Then, $\dsumoinf a_n$ converges iff $\dsumoinf b_n$ converges.
-
-**Tags:** #Theorem #Analysis/Series #Course/FPM
 
 #### Proof
 let $\epsilon = L/2$. There exists an index $N$ such that for all indices n with $n\geq N$ we have

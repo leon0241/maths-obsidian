@@ -1,12 +1,12 @@
-> [!Theorem] 
+**Tags:** #Theorem #Analysis/Series #Course/FPM
+###### [[Ratio Test]]
+> [!Theorem]+
 > Let $\dsumzinf a_n$ be a series with positive terms such that $\dfrac{a_{n+1}}{a_n} \to L$, where $0\le L \le +\infty$.
 > - If $0\le L < 1$ then the series $\dsumzinf a_n$ converges.
 > - If $L > 1$ then the series $\dsumzinf a_n$ diverges.
 > - If $L = 1$:
 >   - If $a_n = \dfrac{1}{n}$, then $\dfrac{a_{n+1}}{a_n} = \dfrac{n}{n + 1} \to 1$, and $\dsumzinf \frac{1}{n}$ diverges.>
 >   - If $a_n = \dfrac{1}{n^2}$, then $\dfrac{a_{n+1}}{a_n} = \dfrac{n^2}{(n + 1)^2} \to 1$, and $\dsumzinf \frac{1}{n^2}$ converges.
-
-**Tags:** #Theorem #Analysis/Series #Course/FPM
 
 #### Logic
 If $a_n > 0$ for all n, and $\dfrac{a_{n+1}}{a_n} \to L < 1$, then, for every $\epsilon$,
