@@ -147,15 +147,15 @@
   },
   "active": "7ba3ef9e9be9311f",
   "lastOpenFiles": [
-    "Mathematics/Individuals/Limit Comparison Test.md",
-    "Mathematics/Individuals/Integral Test.md",
-    "Mathematics/Individuals/Order Axioms of R.md",
-    "Mathematics/Individuals/P-series test.md",
-    "Mathematics/Individuals/Peano Axioms to define N and Z.md",
-    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Individuals/Field Axioms of R.md",
     "Mathematics/Defining the Real Numbers.md",
-    "Mathematics/Individuals/Defining Subsets of R (N,Z,Q).md",
-    "Mathematics/Individuals/Archimedean Principle.md",
-    "Mathematics/Individuals/Creating the idea of mathematical Induction.md"
+    "Templates/General.md",
+    "Mathematics/Individuals/Defining the Absolute Value.md",
+    "Mathematics/Infinite Series.md",
+    "Templates/Main.md",
+    "Mathematics/Individuals/Divergence Test.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Individuals/Bounded Theorem.md",
+    "Mathematics/Individuals/Order Axioms of R.md"
   ]
 }

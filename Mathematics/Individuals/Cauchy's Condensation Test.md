@@ -13,13 +13,14 @@ For $n\in\N$ define
 Group the terms in $S_{2^n}$ like
 $$S_{2^n} = a_1 + a_2 + (a_3 + a_4) + (a_5 + a_6+a_7+a_8)+\cdots+(a_{2^{n-1}+1} +a_{2^{n-1}+2} +\cdots+a_{2^n})$$
 Since $a_n$ has to be decreasing, $(a_3+a_4) > 2a_4$ and the same follows for the rest
-$$S_{2^n} = \ccolO a_1 \ccolD+ \ccolB a_2 \ccolD+ \ccolR (a_3 + a_4) \ccolD +\ccolG(a_5 + a_6+a_7+a_8) \ccolD+\cdots+ \ccolY (a_{2^{n-1}+1} +a_{2^{n-1}+2} +\cdots+a_{2^n})$$
-$$\ge \ccolO a_1 \ccolD + \ccolB a_2 \ccolD + \ccolR 2a_4 \ccolD + \ccolG 4a_8 \ccolD +\cdots+ \ccolY 2^{n-1}a_{2^n}$$
-$$=\ccolD\frac{1}{2}\ccolO a_1 + \ccolD\frac{1}{2}(\ccolO a_1 \ccolD+\ccolB 2a_2 \ccolD+\ccolR 4a_4 \ccolD+ \ccolG8a_8 \ccolD+\cdots+ \ccolY 2^na_{2^n})$$
-$$=\frac{1}{2}\ccolO a_1 \ccolD + \frac{1}{2}T_{n+1} \implies T_{n+1} \le 2(S_{2^n} - \frac{\ccolO a_1}{\ccolD 2})$$
+$$\displaylines{S_{2^n} = \ccolO a_1 \ccolD+ \ccolB a_2 \ccolD+ \ccolR (a_3 + a_4) \ccolD +\ccolG(a_5 + a_6+a_7+a_8) \ccolD+\cdots+ \ccolY (a_{2^{n-1}+1} +a_{2^{n-1}+2} +\cdots+a_{2^n})\\
+\ge \ccolO a_1 \ccolD + \ccolB a_2 \ccolD + \ccolR 2a_4 \ccolD + \ccolG 4a_8 \ccolD +\cdots+ \ccolY 2^{n-1}a_{2^n}}$$
+$$\displaylines{=\ccolD\frac{1}{2}\ccolO a_1 + \ccolD\frac{1}{2}(\ccolO a_1 \ccolD+\ccolB 2a_2 \ccolD+\ccolR 4a_4 \ccolD+ \ccolG8a_8 \ccolD+\cdots+ \ccolY 2^na_{2^n})\\
+=\ccolD\frac{1}{2}\ccolO a_1 + \ccolD\frac{1}{2}(\ccolO a_1 \ccolD+\ccolB 2a_2 \ccolD+\ccolR 4a_4 \ccolD+ \ccolG8a_8 \ccolD+\cdots+ \ccolY 2^na_{2^n})}$$
+$$\displaylines{=\frac{1}{2}\ccolO a_1 \ccolD + \frac{1}{2}T_{n+1} \implies T_{n+1} \le 2(S_{2^n} - \frac{\ccolO a_1}{\ccolD 2})}$$
 Similarly,
-$$S_{2^n} = \ccolO a_1 \ccolD+ \ccolB a_2 \ccolD+ \ccolR (a_3 + a_4) \ccolD +\ccolG(a_5 + a_6+a_7+a_8) \ccolD+\cdots+ \ccolY (a_{2^{n-1}+1} +a_{2^{n-1}+2} +\cdots+a_{2^n})$$
-$$\le \ccolO a_1 \ccolD + \ccolB a_2 \ccolD + \ccolR 2a_2 \ccolD + \ccolG 4a_4 \ccolD +\cdots+ \ccolY 2^{n-1}a_{2^{n-1}}$$
+$$\displaylines{S_{2^n} = \ccolO a_1 \ccolD+ \ccolB a_2 \ccolD+ \ccolR (a_3 + a_4) \ccolD +\ccolG(a_5 + a_6+a_7+a_8) \ccolD+\cdots+ \ccolY (a_{2^{n-1}+1} +a_{2^{n-1}+2} +\cdots+a_{2^n})\\
+\le \ccolO a_1 \ccolD + \ccolB a_2 \ccolD + \ccolR 2a_2 \ccolD + \ccolG 4a_4 \ccolD +\cdots+ \ccolY 2^{n-1}a_{2^{n-1}}}$$
 $$= a_2 + T_n$$
 Using these two conclusions,
 - If $\dsumoinf a_n$ converges, then $(S_n)_{n\in\N}$ is bounded. By (1), $(T_n)_{n\in\N}$ is bounded, therefore $\dsumzinf 2^na_n$ converges.
