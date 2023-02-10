@@ -1,4 +1,4 @@
-**Tags:** #Analysis/Groups #Definition #Course/FPM 
+**Tags:** #Analysis/Reals #Definition #Course/FPM 
 ###### [[Field Axioms of R]]
 > [!Definition]+
 > The set $\R$ is equipped with the algebraic operations $+$ and $\cdot$ (Domain $\R\times\R$, and range $\R$). We assume that the triple ($\R,+,\cdot$) is a field which means it satisfies the following for every $a, b,c\in\R$

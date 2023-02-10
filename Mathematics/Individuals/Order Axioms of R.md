@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Definition #Analysis/Reals #Course/FPM 
 ###### [[Order Axioms of R]]
 > [!Definition]+
 > The set of real numbers is **ordered**, in other words there is a concept of "less than", and "more than". There is a relation < on $\R$ that has the following properties:

@@ -1,4 +1,4 @@
-**Tags:** #Definition #Analysis/Groups #Course/FPM 
+**Tags:** #Definition #Analysis/Reals  #Course/FPM 
 ###### [[Defining Subsets of R (N,Z,Q)]]
 > [!Definition]+
 > - We will define a positive real number as any $a\in\R$ where $a>0$. We define a non-negative real number as any $a\in\R$ where $a\ge0$.

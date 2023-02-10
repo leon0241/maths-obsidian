@@ -1,4 +1,4 @@
-**Tags:** #Analysis/Groups #Theorem #Course/FPM 
+**Tags:** #Analysis/Reals  #Theorem #Course/FPM 
 ###### [[Creating the idea of mathematical Induction]]
 > [!Theorem]+
 > Suppose for each $n\in\N_0$ that $P(n)$ is a proposition (a verbal statement or a formula) that satisfies the following two properties: 

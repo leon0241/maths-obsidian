@@ -1,4 +1,4 @@
-**Tags:** #Definition #Analysis/Groups #Course/FPM 
+**Tags:** #Definition #Analysis/Reals  #Course/FPM 
 ###### [[Peano Axioms to define N and Z]]
 > [!Definition]+
 > From just stating $N = \{1,2,3,\dots\}$, it is not clear what $2$ or $3$ actually is, so we will need to define $2$ as $1 + 1$, and $3$ as $2 + 1$ or $1 + 1+1$, and so forth. Define functions $s(n)$(successor of $n$) and $p(n)$(predecessor of $n$) where $s(n)=n+1$, and $p(n) = n - 1$. We can first construct a list of axioms to define every number in $\N_0$ called the Peano Axioms.

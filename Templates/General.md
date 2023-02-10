@@ -1,5 +1,5 @@
 **Tags:** 
-###### {{title}}
+###### [[{{title}}]]
 > [!Theorem]+
 
 #### Proof
