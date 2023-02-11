@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Groups.md",
-                "mode": "source",
+                "file": "Mathematics/Individuals/Axiom of Completeness.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Groups.md",
+            "file": "Mathematics/Individuals/Axiom of Completeness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematics/Groups.md",
+            "file": "Mathematics/Individuals/Axiom of Completeness.md",
             "linksCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -114,13 +114,15 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathematics/Groups.md"
+            "file": "Mathematics/Individuals/Axiom of Completeness.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "active": "7595a9a600fbc399",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Mathematics/Groups.md"
+  ]
 }
