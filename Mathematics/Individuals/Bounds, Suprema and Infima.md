@@ -1,5 +1,5 @@
 **Tags:** #Analysis/Reals #Theorem #Course/FPM 
-###### [[Bounds, Supremums and Infinums]]
+###### [[Bounds, Suprema and Infima]]
 > [!Theorem]+
 > Let $S$ be an ordered field (like $\R$) and $A\subseteq S$ be nonempty.
 > 1. The set $A$ is *bounded above* if there exists some $b\in S$ such that $x\le b$ for all $x\in A$; in this case, $b$ is called an *upper bound* of $A$.

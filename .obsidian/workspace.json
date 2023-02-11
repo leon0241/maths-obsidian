@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Groups.md",
+                "file": "Mathematics/Individuals/P-series test.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,23 +21,34 @@
             "group": "32c5ba967abc6272"
           },
           {
+            "id": "1b96823dc9f0f5e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Individuals/Bounds, Suprema and Infima.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cde73c3b7cf6fade",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Symmetries.md",
+                "file": "Mathematics/Proving a Series is Convergent.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "8ca0f9dd20cf70f4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "560a18749d7e59b0",
+        "id": "8b572b7f3c0cdf17",
         "type": "tabs",
         "children": [
           {
@@ -46,28 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Groups.md",
+                "file": "Mathematics/Individuals/P-series test.md",
                 "mode": "preview",
                 "source": false
               }
             },
             "group": "32c5ba967abc6272"
-          },
-          {
-            "id": "c08e300b959c8b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Symmetries.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "8ca0f9dd20cf70f4"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Symmetries.md",
+                "file": "Mathematics/Individuals/P-series test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Symmetries.md",
+                "file": "Mathematics/Individuals/P-series test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Symmetries.md"
+                "file": "Mathematics/Individuals/P-series test.md"
               }
             }
           }
@@ -193,17 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cde73c3b7cf6fade",
+  "active": "0dc5ea2f09218379",
   "lastOpenFiles": [
-    "Mathematics/Groups.md",
-    "Mathematics/Defining the Real Numbers.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Individuals/Cauchy's Condensation Test.md",
+    "Mathematics/Individuals/Bounds, Suprema and Infima.md",
+    "Mathematics/Individuals/P-series test.md",
+    "Mathematics/Individuals/Geometric Series Test.md",
+    "Mathematics/Individuals/Monotone Sequences.md",
     "Mathematics/Infinite Series.md",
-    "Mathematics/Individuals/Field Axioms of R.md",
-    "Mathematics/Individuals/Abelian Group.md",
-    "Mathematics/Individuals/Abelian.md",
-    "Mathematics/Individuals/Examples of a group.md",
-    "Mathematics/Individuals/Elements of a group.md",
-    "Mathematics/Individuals/Defining a Group.md",
-    "Mathematics/Individuals/Defining Subsets of R (N,Z,Q).md"
+    "Mathematics/Individuals/Monotone Convergence Theorem.md",
+    "Mathematics/Symmetries.md",
+    "Mathematics/Individuals/Definition of a Graph.md"
   ]
 }
