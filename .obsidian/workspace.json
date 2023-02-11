@@ -4,44 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "320977e81a8fef3e",
+        "id": "13dea1b5ee0f8068",
         "type": "tabs",
-        "dimension": 27.57452574525745,
         "children": [
           {
-            "id": "a8271566751d657c",
+            "id": "417335d453e46cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Individuals/Defining a Group.md",
+                "file": "Mathematics/Groups.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "ff4be17975e92204"
-          }
-        ]
-      },
-      {
-        "id": "f2a52f7872ae7b3b",
-        "type": "tabs",
-        "dimension": 72.42547425474255,
-        "children": [
+            "group": "32c5ba967abc6272"
+          },
           {
-            "id": "e8efa6e1fddf7ceb",
+            "id": "cde73c3b7cf6fade",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Individuals/Defining a Group.md",
+                "file": "Mathematics/Symmetries.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "8ca0f9dd20cf70f4"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "560a18749d7e59b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc5ea2f09218379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Groups.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "ff4be17975e92204"
+            "group": "32c5ba967abc6272"
+          },
+          {
+            "id": "c08e300b959c8b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Symmetries.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "8ca0f9dd20cf70f4"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Individuals/Defining a Group.md",
+                "file": "Mathematics/Symmetries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Individuals/Defining a Group.md",
+                "file": "Mathematics/Symmetries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Individuals/Defining a Group.md"
+                "file": "Mathematics/Symmetries.md"
               }
             }
           }
@@ -167,17 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8271566751d657c",
+  "active": "cde73c3b7cf6fade",
   "lastOpenFiles": [
     "Mathematics/Groups.md",
-    "Mathematics/Random.md",
-    "Mathematics/Individuals/Functions.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Mathematics/Defining the Real Numbers.md",
-    "Mathematics/Proving a Series is Convergent.md",
     "Mathematics/Infinite Series.md",
-    "Mathematics/Individuals/Root Test.md",
-    "Mathematics/Individuals/Ratio Test.md"
+    "Mathematics/Individuals/Field Axioms of R.md",
+    "Mathematics/Individuals/Abelian Group.md",
+    "Mathematics/Individuals/Abelian.md",
+    "Mathematics/Individuals/Examples of a group.md",
+    "Mathematics/Individuals/Elements of a group.md",
+    "Mathematics/Individuals/Defining a Group.md",
+    "Mathematics/Individuals/Defining Subsets of R (N,Z,Q).md"
   ]
 }

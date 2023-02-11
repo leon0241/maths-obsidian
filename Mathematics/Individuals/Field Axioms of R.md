@@ -14,5 +14,5 @@
 #### Other Information
 > [!Remark]
 > Sets that don't satisfy all of these are important in other contexts.
-> - Properties F1 - F4 and F6 together mean that $(\R,+)$ is a commutative ([[Abelian]]) group. 
-> - Properties F1 - F3, F5, F6 mean that ($\R\backslash\{0\}, \cdot$) is a commutative ([[Abelian]]) group.
+> - Properties F1 - F4 and F6 together mean that $(\R,+)$ is a commutative ([[Abelian Group|Abelian]]) group. 
+> - Properties F1 - F3, F5, F6 mean that ($\R\backslash\{0\}, \cdot$) is a commutative ([[Abelian Group|Abelian]]) group.
