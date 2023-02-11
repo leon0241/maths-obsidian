@@ -21,16 +21,29 @@
             "group": "32c5ba967abc6272"
           },
           {
-            "id": "1b96823dc9f0f5e5",
+            "id": "14a006e4ea4f74a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Individuals/Bounds, Suprema and Infima.md",
+                "file": "Mathematics/Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "93f5cff8dd7f22b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Subgroups.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "bd4d6e1b5fb7119e"
           },
           {
             "id": "cde73c3b7cf6fade",
@@ -63,8 +76,22 @@
               }
             },
             "group": "32c5ba967abc6272"
+          },
+          {
+            "id": "30f30d1ad60a54ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Subgroups.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "bd4d6e1b5fb7119e"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Individuals/P-series test.md",
+                "file": "Mathematics/Subgroups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Individuals/P-series test.md",
+                "file": "Mathematics/Subgroups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Individuals/P-series test.md"
+                "file": "Mathematics/Subgroups.md"
               }
             }
           }
@@ -190,17 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc5ea2f09218379",
+  "active": "30f30d1ad60a54ad",
   "lastOpenFiles": [
-    "Mathematics/Proving a Series is Convergent.md",
-    "Mathematics/Individuals/Cauchy's Condensation Test.md",
-    "Mathematics/Individuals/Bounds, Suprema and Infima.md",
-    "Mathematics/Individuals/P-series test.md",
-    "Mathematics/Individuals/Geometric Series Test.md",
-    "Mathematics/Individuals/Monotone Sequences.md",
+    "Mathematics/Groups.md",
+    "Mathematics/Defining the Real Numbers.md",
     "Mathematics/Infinite Series.md",
-    "Mathematics/Individuals/Monotone Convergence Theorem.md",
-    "Mathematics/Symmetries.md",
-    "Mathematics/Individuals/Definition of a Graph.md"
+    "Mathematics/Individuals/Isomorphism.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Individuals/Bounds, Suprema and Infima.md",
+    "Mathematics/Individuals/Symmetry.md",
+    "Mathematics/Individuals/P-series test.md",
+    "Mathematics/Individuals/Cauchy's Condensation Test.md",
+    "Mathematics/Individuals/Geometric Series Test.md"
   ]
 }
