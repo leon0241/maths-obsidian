@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #CogSci/WordProcessing #Main #Course/CogSci
 ![[Prior Belief#Prior Belief]]
 
 ![[Posterior Belief#Posterior Belief]]

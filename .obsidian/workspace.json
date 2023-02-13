@@ -4,44 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "0aeb8b6bc6f006b2",
+        "id": "fba551a14d417542",
         "type": "split",
         "children": [
           {
-            "id": "f2f1c524bc4a1d86",
+            "id": "88c2ecd18757995a",
             "type": "tabs",
             "children": [
               {
-                "id": "1dc0c2355332e349",
+                "id": "e596f2e96d1bb5ec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cognitive Science/Bayes Rule.md",
+                    "file": "Individuals/Cauchy's Condensation Test.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f28076fca5f00a45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Homework/FPM Assignment 3.md",
                     "mode": "source",
                     "source": false
                   }
                 },
-                "group": "befe748d5d5be194"
+                "group": "5c57e9634d14b126"
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "07674d70f5d0a8cb",
+            "id": "04a42e6f14152555",
             "type": "tabs",
             "children": [
               {
-                "id": "b4d4b6f76ef6582b",
+                "id": "9447632cc9acd008",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cognitive Science/Bayes Rule.md",
+                    "file": "Homework/FPM Assignment 3.md",
                     "mode": "preview",
                     "source": false
                   }
                 },
-                "group": "befe748d5d5be194"
+                "group": "5c57e9634d14b126"
               }
             ]
           }
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Bayes Rule.md",
+                "file": "Homework/FPM Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Bayes Rule.md",
+                "file": "Homework/FPM Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Bayes Rule.md"
+                "file": "Homework/FPM Assignment 3.md"
               }
             }
           }
@@ -173,17 +186,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1dc0c2355332e349",
+  "active": "f28076fca5f00a45",
   "lastOpenFiles": [
-    "Mathematics/Individuals/Posterior Belief.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Individuals/Root Test.md",
+    "Homework/FPM Assignment 3.md",
+    "Individuals/Cauchy's Condensation Test.md",
     "Cognitive Science/Bayes Rule.md",
-    "Mathematics/Individuals/Prior Belief.md",
-    "Mathematics/Individuals/Cyclic Subgroups.md",
+    "Individuals/Posterior Belief.md",
+    "Individuals/Prior Belief.md",
+    "Individuals/Cyclic Subgroups.md",
     "Mathematics/Test.md",
-    "Mathematics/Individuals/Defining Subsets of R (N,Z,Q).md",
-    "Mathematics/Individuals/Bounds, Suprema and Infima.md",
-    "Mathematics/Subgroups.md",
-    "Mathematics/Random.md",
-    "Mathematics/Individuals/Field Axioms of R.md"
+    "Individuals/Defining Subsets of R (N,Z,Q).md"
   ]
 }

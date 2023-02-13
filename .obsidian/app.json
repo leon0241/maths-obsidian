@@ -5,5 +5,11 @@
   "readableLineLength": true,
   "attachmentFolderPath": "Images",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Mathematics/Individuals"
+  "newFileFolderPath": "Mathematics/Individuals",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
