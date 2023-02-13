@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Algebra/Groups #Theorem #Course/FPM 
 ###### [[Test for a subgroup]]
 > [!Theorem]+
 > $H\subseteq G$ is a subgroup of $G$ if and only if:

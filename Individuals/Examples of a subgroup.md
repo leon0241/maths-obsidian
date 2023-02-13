@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Algebra/Groups #Collection #Course/FPM 
 ###### [[Examples of a subgroup]]
 
 > [!Example]+

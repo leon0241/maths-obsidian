@@ -4,59 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "fba551a14d417542",
+        "id": "c3f9abfc4d6b52eb",
         "type": "split",
         "children": [
           {
-            "id": "88c2ecd18757995a",
+            "id": "91c7cc52c6f7da1c",
             "type": "tabs",
             "children": [
               {
-                "id": "e596f2e96d1bb5ec",
+                "id": "c3975ab228e603d6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Individuals/Cauchy's Condensation Test.md",
+                    "file": "Mathematics/Coset.md",
                     "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "14e92a245dacaad9"
+              },
+              {
+                "id": "55b93bdafbe04a76",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Visual diagram of sets.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "075e6173c6bc9846",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66a3ebcd7b4d601c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mathematics/Test.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
               },
               {
-                "id": "f28076fca5f00a45",
+                "id": "605abb154ad5353b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Homework/FPM Assignment 3.md",
+                    "file": "Mathematics/Coset.md",
                     "mode": "source",
                     "source": false
                   }
                 },
-                "group": "5c57e9634d14b126"
+                "group": "14e92a245dacaad9"
               }
             ],
             "currentTab": 1
-          },
-          {
-            "id": "04a42e6f14152555",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9447632cc9acd008",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Homework/FPM Assignment 3.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "5c57e9634d14b126"
-              }
-            ]
           }
         ],
         "direction": "horizontal"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/FPM Assignment 3.md",
+                "file": "Mathematics/Coset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/FPM Assignment 3.md",
+                "file": "Mathematics/Coset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/FPM Assignment 3.md"
+                "file": "Mathematics/Coset.md"
               }
             }
           }
@@ -186,17 +198,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f28076fca5f00a45",
+  "active": "add0607bcc776578",
   "lastOpenFiles": [
-    "Mathematics/Proving a Series is Convergent.md",
+    "Individuals/Test for a subgroup.md",
+    "Individuals/Symmetry.md",
+    "Individuals/Subgroup notation.md",
     "Individuals/Root Test.md",
-    "Homework/FPM Assignment 3.md",
-    "Individuals/Cauchy's Condensation Test.md",
-    "Cognitive Science/Bayes Rule.md",
-    "Individuals/Posterior Belief.md",
+    "Individuals/Ratio Test.md",
     "Individuals/Prior Belief.md",
-    "Individuals/Cyclic Subgroups.md",
-    "Mathematics/Test.md",
-    "Individuals/Defining Subsets of R (N,Z,Q).md"
+    "Individuals/Posterior Belief.md",
+    "Individuals/Peano Axioms to define N and Z.md",
+    "Individuals/P-series test.md",
+    "Individuals/Order of a Group.md"
   ]
 }

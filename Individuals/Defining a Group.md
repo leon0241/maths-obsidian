@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Algebra/Groups #Definition #Course/FPM 
 ###### [[Defining a Group]]
 > [!Theorem]+
 > For any operation $\ast$, We say a non-empty set G is a *group* under $\ast$, or more formally that (G, $\ast$) is a group, if the following four axioms hold:

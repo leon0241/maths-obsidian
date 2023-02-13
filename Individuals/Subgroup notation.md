@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Algebra/Groups #Notation #Course/FPM 
 ###### [[Subgroup notation|Notation of dropping operators]]
 > [!Notation]+
 > When dealing with a general group $G$, as much as possible we will write $gh$ for $g*h$

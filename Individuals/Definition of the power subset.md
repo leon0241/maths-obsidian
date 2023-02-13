@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Algebra/Groups #Definition #Course/FPM 
 ###### [[Definition of the power subset]]
 > [!Definition]+
 > Let $G$ be a group and let $g\in G$ be an element. We define the subset

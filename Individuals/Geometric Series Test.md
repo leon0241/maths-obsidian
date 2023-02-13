@@ -1,4 +1,4 @@
-**Tags:** 
+**Tags:** #Analysis/Series #Theorem #Course/FPM 
 ###### [[Geometric Series Test]]
 > [!Theorem]+
 > Assume that $a$ and $r$ are non-zero real numbers. Then
