@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f1c524bc4a1d86",
-        "type": "tabs",
+        "id": "0aeb8b6bc6f006b2",
+        "type": "split",
         "children": [
           {
-            "id": "ed139a0fd7bd1df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Individuals/Cyclic Subgroups.md",
-                "mode": "source",
-                "source": false
+            "id": "f2f1c524bc4a1d86",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1dc0c2355332e349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cognitive Science/Bayes Rule.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "befe748d5d5be194"
               }
-            }
+            ]
           },
           {
-            "id": "04ff2aa2559914b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Test.md",
-                "mode": "preview",
-                "source": false
+            "id": "07674d70f5d0a8cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b4d4b6f76ef6582b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cognitive Science/Bayes Rule.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "group": "befe748d5d5be194"
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Test.md",
+                "file": "Cognitive Science/Bayes Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Test.md",
+                "file": "Cognitive Science/Bayes Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Test.md"
+                "file": "Cognitive Science/Bayes Rule.md"
               }
             }
           }
@@ -146,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +173,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "04ff2aa2559914b8",
+  "active": "1dc0c2355332e349",
   "lastOpenFiles": [
+    "Mathematics/Individuals/Posterior Belief.md",
+    "Cognitive Science/Bayes Rule.md",
+    "Mathematics/Individuals/Prior Belief.md",
+    "Mathematics/Individuals/Cyclic Subgroups.md",
+    "Mathematics/Test.md",
+    "Mathematics/Individuals/Defining Subsets of R (N,Z,Q).md",
+    "Mathematics/Individuals/Bounds, Suprema and Infima.md",
     "Mathematics/Subgroups.md",
     "Mathematics/Random.md",
-    "Mathematics/Individuals/Field Axioms of R.md",
-    "Mathematics/Individuals/Functions.md",
-    "Mathematics/Individuals/Geometric Series Test.md",
-    "Mathematics/Individuals/Integral Test.md",
-    "Mathematics/Individuals/Isomorphism.md",
-    "Mathematics/Individuals/Least Upper Bound Property.md",
-    "Mathematics/Individuals/Limit Comparison Test.md",
-    "Mathematics/Individuals/Monotone Convergence Theorem.md"
+    "Mathematics/Individuals/Field Axioms of R.md"
   ]
 }
