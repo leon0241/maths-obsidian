@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f9abfc4d6b52eb",
+        "id": "ef52b62fb0985316",
         "type": "split",
         "children": [
           {
-            "id": "91c7cc52c6f7da1c",
+            "id": "d6e53aec0b5ea2d2",
             "type": "tabs",
             "children": [
               {
-                "id": "c3975ab228e603d6",
+                "id": "c8253ab5acad010b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -21,54 +21,42 @@
                     "mode": "source",
                     "source": false
                   }
-                },
-                "group": "14e92a245dacaad9"
-              },
-              {
-                "id": "55b93bdafbe04a76",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Visual diagram of sets.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "075e6173c6bc9846",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66a3ebcd7b4d601c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mathematics/Test.md",
-                    "mode": "preview",
-                    "source": false
-                  }
                 }
               },
               {
-                "id": "605abb154ad5353b",
+                "id": "f68ff78cd6bd7667",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mathematics/Coset.md",
+                    "file": "Individuals/Examples of an epsilon Proof.md",
                     "mode": "source",
                     "source": false
                   }
                 },
-                "group": "14e92a245dacaad9"
+                "group": "c8c1d1b1ed53be66"
               }
             ],
             "currentTab": 1
+          },
+          {
+            "id": "80fac75ae2c4eff4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef608bcbb561c0e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Individuals/Examples of an epsilon Proof.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "group": "c8c1d1b1ed53be66"
+              }
+            ]
           }
         ],
         "direction": "horizontal"
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Coset.md",
+                "file": "Individuals/Examples of an epsilon Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Coset.md",
+                "file": "Individuals/Examples of an epsilon Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Coset.md"
+                "file": "Individuals/Examples of an epsilon Proof.md"
               }
             }
           }
@@ -198,17 +186,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "add0607bcc776578",
+  "active": "ef608bcbb561c0e0",
   "lastOpenFiles": [
-    "Individuals/Test for a subgroup.md",
-    "Individuals/Symmetry.md",
-    "Individuals/Subgroup notation.md",
-    "Individuals/Root Test.md",
-    "Individuals/Ratio Test.md",
-    "Individuals/Prior Belief.md",
-    "Individuals/Posterior Belief.md",
-    "Individuals/Peano Axioms to define N and Z.md",
-    "Individuals/P-series test.md",
-    "Individuals/Order of a Group.md"
+    "Mathematics/Proving a Sequence is Convergent.md",
+    "Individuals/Examples of an epsilon Proof.md",
+    "Individuals/Convergent Series Notation.md",
+    "Mathematics/Coset.md",
+    "Mathematics/Proving a Series is Convergent.md",
+    "Mathematics/Mathematical Proof.md",
+    "Mathematics/Groups.md",
+    "Templates/General.md",
+    "Images/Pasted image 20230213172045.png",
+    "Images/Pasted image 20230213172002.png"
   ]
 }
