@@ -23,10 +23,10 @@ $$\{1\},\,\{1,\,h\},\,\{1,\,hg\},\,\{1,\,hg^{2}\},\,\{1,\,g,\,g^{2}\}, \, \{1,\,
 **Showing what subgroups are normal**
 A subgroup $N$ is normal if for every $k$ in a group $G$, the left coset $kN$ is equal to the right coset $nK$
 1. The subgroup $\{1\}$ is normal trivially, as $e*g=g*e\quad\forall g\in G$
-2. The subgroup $\{1,\,h\}$ is ?
+2. The subgroup $\{1,\,h\}$
 3. The subgroup $\{1,\,hg\}$
 4. The subgroup $\{1,\,hg^{2}\}$
-5. The subgroup $\{1,\,g,\,g^{2}\}$
+5. The subgroup $\{1,\,g,\,g^{2}\}$ is normal
 6. The subgroup $\{1,\, g,\, g^{2},\, h,\, hg,\, hg^{2}\}$ is normal, as "$\forall k\in G$"
 
 > [!Question]
