@@ -1,5 +1,6 @@
 **Tags:** #Course/FPM #Homework
 
+## Question 1
 > [!question] 
 > A subgroup $N$ is of a group $G$ is said to be *normal* iff every left coset of $N$ is equal to the corresponding right coset, i.e.
 > $$\forall k \in G \quad kN=Nk$$
@@ -7,16 +8,16 @@
 
 The elements in $D_{3}$ are $\{e, g, g^{2}, h, hg, hg^{2}\}$  where $g$ is a rotation of $\frac{2\pi}{3}$, and $h$ is a reflection
 There are limits to what will count as a valid subgroup:
-**Closure**
+Below is a table of each possible operation in $D_{3}$, where going down is the first element, and going along is the second element. e.g. $g*h=hg^2$
 
-| $*$    | $1$     | $g$    | $g^2$  | $h$    | $hg$   | $hg^2$ |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| $1$    | $1$    | $g$    | $g^2$  | $h$    | $hg$   | $hg^2$ |
-| $g$    | $g$    | $g^2$  | $1$    | $hg^2$ | $h$    | $hg$   |
-| $g^2$  | $g^2$  | $1$    | $g$    | $hg$   | $hg^2$ | $h$    |
-| $h$    | $h$    | $hg$   | $hg^2$ | $1$    | $g$    | $g^2$  |
-| $hg$   | $hg$   | $hg^2$ | $h$    | $g^2$  | $1$    | $g$    |
-| $hg^2$ | $hg^2$ | $h$    | $hg$   | $g$    | $g^2$  | $1$    |
+| $\large *$    | $\large 1$        | $\large g$    | $\large g^2$  | $\large h$    | $\large hg$   | $\large hg^2$ |
+| ------ | ---------- | ------ | ------ | ------ | ------ | ------ |
+| $\large 1$    | $\ccolL 1$ | $\ccolL g$    | $\ccolL g^2$  | $\ccolL h$    | $\ccolL hg$   | $\ccolL hg^2$ |
+| $\large g$    | $\ccolL g$        | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL hg$   |
+| $\large g^2$  | $\ccolL g^2$      | $\ccolL 1$    | $\ccolL g$    | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL h$    |
+| $\large h$    | $\ccolL h$        | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL 1$    | $\ccolL g$    | $\ccolL g^2$  |
+| $\large hg$   | $\ccolL hg$       | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL g$    |
+| $\large hg^2$ | $\ccolL hg^2$     | $\ccolL h$    | $\ccolL hg$   | $\ccolL g$    | $\ccolL g^2$  | $\ccolL 1$    |
 
 **Inverse**
 - From the table, there are 6 operations between elements that have an inverse. Those are, $1*1, \,g*g^2,\,g^2*g,\,h*h,\,hg*hg,\,hg^2*hg^2$. Therefore, any subgroup that has elements that aren't included in these 6 are invalid.
@@ -42,50 +43,93 @@ $$\{1\},\,\{1,\,h\},\,\{1,\,hg\},\,\{1,\,hg^{2}\},\,\{1,\,g,\,g^{2}\}, \, \{1,\,
 
 A subgroup $N$ is normal if for every $k$ in a group $G$, the left coset $kN$ is equal to the right coset $nK$
 
-On the lookup table, since a coset is a group under operation of an element, it can be visualised as a strip for each element in a subgroup. For example, for the subgroup $\{1,g\}$ can be visualised like so: 
+On the lookup table, the cosets of a subgroup $N$ can be visualised as a strip corresponding each element in the set $G$. For example, for the subgroup $\{1,h\}$ can be visualised like so: 
 ```start-multi-column  
-ID: ExampleRegion1  
+ID: Table1  
 number of columns: 2  
 ```
-Left Coset of $\{1,g\}$
+Left Cosets of $\{1,h\}$
 
-| $*$    | $1$     | $g$    | $g^2$  | $h$    | $hg$   | $hg^2$ |
+| $\large *$    | $\large 1$        | $\large g$    | $\large g^2$  | $\large h$    | $\large hg$   | $\large hg^2$ |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| $1$    | $\ccolB 1$    | $\ccolB g$    | $g^2$  | $h$    | $hg$   | $hg^2$ |
-| $g$    | $\ccolB g$    | $\ccolB g^2$  | $1$    | $hg^2$ | $h$    | $hg$   |
-| $g^2$  | $\ccolB g^2$  | $\ccolB 1$    | $g$    | $hg$   | $hg^2$ | $h$    |
-| $h$    | $\ccolB h$    | $\ccolB hg$   | $hg^2$ | $1$    | $g$    | $g^2$  |
-| $hg$   | $\ccolB hg$   | $\ccolB hg^2$ | $h$    | $g^2$  | $1$    | $g$    |
-| $hg^2$ | $\ccolB hg^2$ | $\ccolB h$    | $hg$   | $g$    | $g^2$  | $1$    |
+| $\large 1$    | $\ccolB 1$    | $\ccolL g$    | $\ccolL g^2$  | $\ccolB h$    | $\ccolL hg$   | $\ccolL hg^2$ |
+| $\large g$    | $\ccolB g$    | $\ccolL g^2$  | $\ccolL 1$    | $\ccolB hg^2$ | $\ccolL h$    | $\ccolL hg$   |
+| $\large g^2$  | $\ccolB g^2$  | $\ccolL 1$    | $\ccolL g$    | $\ccolB hg$   | $\ccolL hg^2$ | $\ccolL h$    |
+| $\large h$    | $\ccolB h$    | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolB 1$    | $\ccolL g$    | $\ccolL g^2$  |
+| $\large hg$   | $\ccolB hg$   | $\ccolL hg^2$ | $\ccolL h$    | $\ccolB g^2$  | $\ccolL 1$    | $\ccolL g$    |
+| $\large hg^2$ | $\ccolB hg^2$ | $\ccolL h$    | $\ccolL hg$   | $\ccolB g$    | $\ccolL g^2$  | $\ccolL 1$    |
 
 --- end-column ---
-Right Coset of $\{1,\,g\}$
 
-| $*$    | $1$     | $g$    | $g^2$  | $h$    | $hg$   | $hg^2$ |
+Right Cosets of $\{1,\,h\}$
+
+| $\large *$    | $\large 1$        | $\large g$    | $\large g^2$  | $\large h$    | $\large hg$   | $\large hg^2$ |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| $1$    | $\ccolG 1$    | $\ccolG g$    | $\ccolG g^2$  | $\ccolG h$    | $\ccolG hg$   | $\ccolG hg^2$ |
-| $g$    | $\ccolG g$    | $\ccolG g^2$  | $\ccolG 1$    | $\ccolG hg^2$ | $\ccolG h$    | $\ccolG hg$   |
-| $g^2$  | $g^2$  | $1$    | $g$    | $hg$   | $hg^2$ | $h$    |
-| $h$    | $h$    | $hg$   | $hg^2$ | $1$    | $g$    | $g^2$  |
-| $hg$   | $hg$   | $hg^2$ | $h$    | $g^2$  | $1$    | $g$    |
-| $hg^2$ | $hg^2$ | $h$    | $hg$   | $g$    | $g^2$  | $1$    |
+| $\large 1$    | $\ccolG 1$    | $\ccolG g$    | $\ccolG g^2$  | $\ccolG h$    | $\ccolG hg$   | $\ccolG hg^2$ |
+| $\large g$    | $\ccolL g$    | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL hg$   |
+| $\large g^2$  | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL g$    | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL h$    |
+| $\large h$    | $\ccolG h$    | $\ccolG hg$   | $\ccolG hg^2$ | $\ccolG 1$    | $\ccolG g$    | $\ccolG g^2$  |
+| $\large hg$   | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL g$    |
+| $\large hg^2$ | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL hg$   | $\ccolL g$    | $\ccolL g^2$  | $\ccolL 1$    |
 
 === end-multi-column
 
-1. The subgroup $\{1\}$ is normal trivially, as $e*g=g*e\quad\forall g\in G$
-2. The subgroup $\{1,\,h\}$ 
-left coset
-4. The subgroup $\{1,\,hg\}$
-5. The subgroup $\{1,\,hg^{2}\}$ 
-6. The subgroup $\{1,\,g,\,g^{2}\}$ is normal
-7. The subgroup $\{1,\, g,\, g^{2},\, h,\, hg,\, hg^{2}\}$ is normal, as "$\forall k\in G$"
-$$\text{showing the things are left right coset is like}$$
+From the table, we can see that for the elements of $G = \{1,\,g,\,g^2,\,h,\,hg,\,hg^2\}$,
+The left cosets of $\{1,h\}$ are
+$$\{\{1,\,h\},\,\{g,\,hg^2\},\,\{g^2,\,hg\},\,\{h,\,1\},\,\{hg,\,g^2\},\,\{hg^2,\,g\}\}$$
+The right cosets of $\{1,\,h\}$ are
+$$\{\{1,\,h\},\,\{g,\,hg\},\,\{g^2,\,hg^2\},\,\{h,\,1\},\,\{hg,\,g\},\,\{hg^2,\,g^2\}\}$$
+The left coset is not equal to the right coset in some places, for example $$hgN = \{hg,\,g^2\},\, \quad Nhg=\{hg,\,g\}$$Therefore, the group $\{1,\,h\}$ is not normal.
 
-| k    | Left coset                        | Right coset                        |
-| ------- | --------------------------- | --------------------------- |
-| $k = 1$ | $\{1,g,g^{2},h,hg,hg^{2}\}$ | $\{1,g,g^{2},h,hg,hg^{2}\}$ |
-| $k=g$   | $\{g,g^{2},1,hg^{2},h,hg\}$ | $\{g,g^{2},1,hg,hg^{2},h\}$|        |                             |                             |
+If we repeat the same process with the group $\{1,\,g,\,g^2\}$, we get:
 
+
+```start-multi-column  
+ID: Table2  
+number of columns: 2  
+```
+Left Cosets of $\{1,g,\,g^2\}$
+
+| $\large *$    | $\large 1$        | $\large g$    | $\large g^2$  | $\large h$    | $\large hg$   | $\large hg^2$ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| $\large 1$    | $\ccolB 1$    | $\ccolB g$    | $\ccolB g^2$  | $\ccolL h$    | $\ccolL hg$   | $\ccolL hg^2$ |
+| $\large g$    | $\ccolB g$    | $\ccolB g^2$  | $\ccolB 1$    | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL hg$   |
+| $\large g^2$  | $\ccolB g^2$  | $\ccolB 1$    | $\ccolB g$    | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL h$    |
+| $\large h$    | $\ccolB h$    | $\ccolB hg$   | $\ccolB hg^2$ | $\ccolL 1$    | $\ccolL g$    | $\ccolL g^2$  |
+| $\large hg$   | $\ccolB hg$   | $\ccolB hg^2$ | $\ccolB h$    | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL g$    |
+| $\large hg^2$ | $\ccolB hg^2$ | $\ccolB h$    | $\ccolB hg$   | $\ccolL g$    | $\ccolL g^2$  | $\ccolL 1$    |
+
+--- end-column ---
+
+Right Cosets of $\{1,\,g,\,g^2\}$
+
+| $\large *$    | $\large 1$        | $\large g$    | $\large g^2$  | $\large h$    | $\large hg$   | $\large hg^2$ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| $\large 1$    | $\ccolG 1$    | $\ccolG g$    | $\ccolG g^2$  | $\ccolG h$    | $\ccolG hg$   | $\ccolG hg^2$ |
+| $\large g$    | $\ccolG g$    | $\ccolG g^2$  | $\ccolG 1$    | $\ccolG hg^2$ | $\ccolG h$    | $\ccolG hg$   |
+| $\large g^2$  | $\ccolG g^2$  | $\ccolG 1$    | $\ccolG g$    | $\ccolG hg$   | $\ccolG hg^2$ | $\ccolG h$    |
+| $\large h$    | $\ccolL h$    | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL 1$    | $\ccolL g$    | $\ccolL g^2$  |
+| $\large hg$   | $\ccolL hg$   | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL g^2$  | $\ccolL 1$    | $\ccolL g$    |
+| $\large hg^2$ | $\ccolL hg^2$ | $\ccolL h$    | $\ccolL hg$   | $\ccolL g$    | $\ccolL g^2$  | $\ccolL 1$    |
+
+=== end-multi-column
+
+The left cosets of the group are:
+$$\{\{1,\,g,\,g^2\},\,\{g,\,g^2,\,1\}\{g^2,\,1,\,g\}\{h,\,hg,\,hg^2\},\,\{hg,\,hg^2,\,h\},\,\{hg^2,\,h,\,hg\}\}$$
+The right cosets of the group are:
+$$\{\{1,\,g,\,g^2\},\,\{g,\,g^2,\,1\},\,\{g^2,\,1,\,g\},\,\{h,\,hg^2,\,hg\},\,\{hg,\,h,\,hg^2\},\,\{hg^2,\,hg,\,h\}\}$$
+From this we can see that every left coset is the same as the right coset, therefore the subgroup $\{1,\,g,\,g^2\}$ is normal.
+
+The other subgroups can also be calculated like this but we will just work off counterexamples.
+- The subgroup $\{1\}$ is normal trivially, as $e*g=g*e\quad\forall g\in G$
+- The subgroup $\{1,\,hg\}$ is not normal, counterexample: $hN=\{h,g\},\,Nh=\{h,\,g^2\}$
+- The subgroup $\{1,\,hg^{2}\}$ is not normal, counterample: $hgN=\{hg,\,g\},\,Nhg=\{hg,\,g^2\}$
+- The subgroup $\{1,\, g,\, g^{2},\, h,\, hg,\, hg^{2}\}$ is normal. Looking at the graph, the left cosets of the subgroup will effectively be a group of every row in the table, where each row includes every single element of $D_{3}$. The right cosets will be a group of every column in the table, where each column also includes every single element of $D_{3}$. Therefore, all elements of the left and right cosets will be the same, meaning the subgroup $D_{3}$ is normal.
+
+Therefore, the normal subgroups of the dihedral group $D_{3}$ are 
+$$\{1\},\, \{1,\,g,\,g^2\},\,\{1,\,g,\,g^2,\,h,\,hg,\,hg^2\}$$
+
+## Question 2
 > [!Question]
 > Let $a$ be a non-negative real number. Prove that the series
 > $$\displaystyle\sum_{n=1}^{\infty} \left( \frac{an+2}{n+1} \right)^{n^{2}}$$
@@ -117,28 +161,3 @@ Since $L_{3} \ge L_{2}$ for all $n$, then by the comparison test since $L_{2}$ d
 Therefore, from these three results we can see that for the series
 $$\displaystyle\sum_{n=1}^{\infty} \left( \frac{an+2}{n+1} \right)^{n^{2}}$$
 The series will converge if $a<0$, and it will diverge if $a\ge 0$.
-
-
-
-%%
-- $h*g=hg, \,g*h=hg^{2}$
-$\implies$If $h,\,g$ are in a subgroup, then so is $hg$ and $hg^{2}$.
-- $h*g^{2}=hg^{2}, \,g^{2}*h=hg$
-$\implies$ If $h,\,g^{2}$ are in a subgroup, then so is $hg^{2}$ and $hg$.
-- $h*hg=e*g=g, \,hg*h=g^{2}$
-   $\implies$ If $h,\,hg$ are in a subgroup, then so is $g$ and $g^{2}$.
-- $h*hg^{2}=e*g^{2}=g^{2}, \,hg^{2}*h=g$
-$\implies$ If $h,\,hg^{2}$ are in a subgroup, then so is $g^{2}$ and $g$.
-- $hg*hg^{2}=g^{2},\,hg^{2}*hg=g$
-$\implies$ if $hg,hg^{2}$ are in a subgroup, then so is $g^{2}$ and $g$
-- $hg*g=hg^{2},\,g*hg=h$
-$\implies$ if $hg,\,g$ are in a subgroup, then so is $hg^{2}$ and $h$
- - $hg*g^{2}=h,\,g^{2}*hg=hg^2$
-$\implies$ if $hg,g^{2}$ are in a subgroup, then so is $h$ and $hg^{2}$
- - $hg^{2}*g=h,\,g*hg^{2}=hg$
-$\implies$ if $hg^2,g$ are in a subgroup, then so is $h$ and $hg$
- - $hg^{2}*g^{2}=hg,\,g^{2}*hg^{2}=h$
-$\implies$ if $hg^2,g$ are in a subgroup, then so is $hg$ and $h$
-- $g*g^{2}=1, \, g^2*g=1$
-$\implies$ if $g,g^{2}$ are in a subgroup, then nothing further can be stated
-%%

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "300a3f486d57d74a",
+        "id": "848bb92cc4fc4dad",
         "type": "tabs",
         "children": [
           {
-            "id": "f51ce6c6eb9ebe5d",
+            "id": "516b3651fd15d38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f51ce6c6eb9ebe5d",
+  "active": "516b3651fd15d38d",
   "lastOpenFiles": [
-    "Homework/FPM Assignment 3.md",
     "Mathematics/Coset.md",
+    "Homework/FPM Assignment 3.md",
+    "Mathematics/Defining the Real Numbers.md",
     "Individuals/Defining a Group.md",
     "Mathematics/Subgroups.md",
     "Individuals/Cyclic Subgroups.md",
