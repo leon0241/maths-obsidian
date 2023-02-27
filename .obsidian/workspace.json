@@ -4,49 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c1668b9d1b6593",
-        "type": "split",
+        "id": "dc0594d243f2b10d",
+        "type": "tabs",
         "children": [
           {
-            "id": "d6e53aec0b5ea2d2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c8253ab5acad010b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Individuals/Coset Rules.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "25a8b88dea367c12"
+            "id": "4cd7978078ff7aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/FPM Assignment 3.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "28e28fafa1d15d18",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7570ace3600e966e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Individuals/Coset Rules.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "25a8b88dea367c12"
-              }
-            ]
+            },
+            "group": "497b7ceebc0f38a3"
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "d5ae915de38abc79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0985021c450dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/FPM Assignment 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "497b7ceebc0f38a3"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Coset Rules.md",
+                "file": "Homework/FPM Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Coset Rules.md",
+                "file": "Homework/FPM Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Coset Rules.md"
+                "file": "Homework/FPM Assignment 3.md"
               }
             }
           }
@@ -173,8 +166,10 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c8253ab5acad010b",
+  "active": "9f0985021c450dbc",
   "lastOpenFiles": [
+    "Cognitive Science/Bayes Rule.md",
+    "Individuals/Coset Rules.md",
     "Mathematics/Coset.md",
     "Individuals/Definition of a Coset.md",
     "Individuals/Coset Notation.md",
@@ -182,8 +177,6 @@
     "Templates/Theorem.md",
     "Templates/Definition.md",
     "Templates/Example.md",
-    "Templates/Main.md",
-    "Mathematics/Defining the Real Numbers.md",
-    "Individuals/Examples of an epsilon Proof.md"
+    "Templates/Main.md"
   ]
 }

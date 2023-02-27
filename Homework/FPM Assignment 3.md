@@ -2,19 +2,32 @@
 
 > [!question] 
 > A subgroup $N$ is of a group $G$ is said to be *normal* iff every left coset of $N$ is equal to the corresponding right coset, i.e.
-> $$\forall k \in G \quad kN=nK$$
+> $$\forall k \in G \quad kN=Nk$$
 > Find all subgroups of the dihedral group $D_{3}$. For each subgroup, determine whether it is normal or not.
 
 The elements in $D_{3}$ are $\{e, g, g^{2}, h, hg, hg^{2}\}$  where $g$ is a rotation of $\frac{2\pi}{3}$, and $h$ is a reflection
 There are limits to what will count as a valid subgroup:
 **Closure**
-- If $g, h$ are in a subgroup, then so is $hg$. $g*h=gh$
-- If $h,hg$ are in a subgroup, then so is $g$. $h*h*g=e*g=g$
-- If $g^{2}, h$ are in a subgroup, then so is $hg^{2}$. $g^{2}*h=g^{2}h$
-- If $h,hg^{2}$ are in a subgroup, then so is $g$. $h*h*g^{2}=e*g^{2}=g^{2}$
-**Inverse**
-- The inverse of a
+- $g*h=gh\implies$If $g, h$ are in a subgroup, then so is $hg$.
+- $h*hg=e*g=g\implies$ If $h,hg$ are in a subgroup, then so is $g$.
+- $g^{2}*h=g^{2}h\implies$ If $g^{2}, h$ are in a subgroup, then so is $hg^{2}$.
+- $h*hg^{2}=e*g^{2}=g^{2}\implies$ If $h,hg^{2}$ are in a subgroup, then so is $g$.
 
+**Inverse**
+- The inverse of $g$ is $g^{2} \implies$ if $g$ is in a subgroup, so is $g^{2}$
+- The inverse of $g^{2}$ is $g \implies$ if $g^{2}$ is in a subgroup, so is $g$
+- The inverse of $h, hg, hg^{2}$ is $h, hg, hg^{2}$ respectively.
+Therefore, from these restrictions, there are six valid subgroups.
+$$\{1\},\,\{1,\,h\},\,\{1,\,hg\},\,\{1,\,hg^{2}\},\,\{1,\,g,\,g^{2}\}, \, \{1,\, g,\, g^{2},\, h,\, hg,\, hg^{2}\}$$
+
+**Showing what subgroups are normal**
+A subgroup $N$ is normal if for every $k$ in a group $G$, the left coset $kN$ is equal to the right coset $nK$
+1. The subgroup $\{1\}$ is normal trivially, as $e*g=g*e\quad\forall g\in G$
+2. The subgroup $\{1,\,h\}$ is ?
+3. The subgroup $\{1,\,hg\}$
+4. The subgroup $\{1,\,hg^{2}\}$
+5. The subgroup $\{1,\,g,\,g^{2}\}$
+6. The subgroup $\{1,\, g,\, g^{2},\, h,\, hg,\, hg^{2}\}$ is normal, as "$\forall k\in G$"
 
 > [!Question]
 > Let $a$ be a non-negative real number. Prove that the series
