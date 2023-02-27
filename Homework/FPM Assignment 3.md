@@ -1,4 +1,21 @@
 **Tags:** #Course/FPM #Homework
+
+> [!question] 
+> A subgroup $N$ is of a group $G$ is said to be *normal* iff every left coset of $N$ is equal to the corresponding right coset, i.e.
+> $$\forall k \in G \quad kN=nK$$
+> Find all subgroups of the dihedral group $D_{3}$. For each subgroup, determine whether it is normal or not.
+
+The elements in $D_{3}$ are $\{e, g, g^{2}, h, hg, hg^{2}\}$  where $g$ is a rotation of $\frac{2\pi}{3}$, and $h$ is a reflection
+There are limits to what will count as a valid subgroup:
+**Closure**
+- If $g, h$ are in a subgroup, then so is $hg$. $g*h=gh$
+- If $h,hg$ are in a subgroup, then so is $g$. $h*h*g=e*g=g$
+- If $g^{2}, h$ are in a subgroup, then so is $hg^{2}$. $g^{2}*h=g^{2}h$
+- If $h,hg^{2}$ are in a subgroup, then so is $g$. $h*h*g^{2}=e*g^{2}=g^{2}$
+**Inverse**
+- The inverse of a
+
+
 > [!Question]
 > Let $a$ be a non-negative real number. Prove that the series
 > $$\displaystyle\sum_{n=1}^{\infty} \left( \frac{an+2}{n+1} \right)^{n^{2}}$$
