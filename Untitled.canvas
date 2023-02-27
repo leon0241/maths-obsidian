@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bf0f4142e9e6734f","x":-250,"y":-160,"width":400,"height":400,"color":"1","type":"file","file":"Mathematics/Proving a Series is Convergent.md"},
+		{"id":"dcef1f3af3ed83fb","x":150,"y":-160,"width":210,"height":340,"type":"text","text":""}
+	],
+	"edges":[]
+}
