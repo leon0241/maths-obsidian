@@ -9,7 +9,10 @@
 > - **F5 - Existence of the Multiplicative Identity:** There is a unique element $1\in\R$ such that $1\ne0$ and $1\cdot a = a$ for all $a\in\R$ (one consequence of this is that fields must have at least two elements)
 > - **F6 - Existence of Additive Inverses:** For every $a\in\R$ there is a unique element $-a\in\R$ such that $a+(-a)=0$
 > - **F7 - Existence of Multiplicative Inverses:** For every $a\in\R$ and $a\ne0$ there is a unique element $a^{-1}\in\R$ such that $a\cdot(a^{-1})=1$
-> - **F8 - Distributive Law:** $a\cdot (b+c) = a\cdot b + a\cdot c$ (this is the only law connecting addition with multiplication)
+> - **F8 - Distributive Law:** 
+> 	- $a\cdot (b+c) = a\cdot b + a\cdot c$
+> 	- $(b+c)\cdot a=(b\cdot a) + (c\cdot a)$ 
+> 	- (this is the only law connecting addition with multiplication)
 
 #### Other Information
 > [!Remark]

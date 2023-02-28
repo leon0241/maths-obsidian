@@ -1,91 +1,78 @@
 {
   "main": {
-    "id": "aae392130b78a981",
+    "id": "54f6c512e000bd19",
     "type": "split",
     "children": [
       {
-        "id": "848bb92cc4fc4dad",
-        "type": "tabs",
+        "id": "c66444b667861bd2",
+        "type": "split",
         "children": [
           {
-<<<<<<< Updated upstream
-            "id": "516b3651fd15d38d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/FPM Assignment 3.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-=======
-            "id": "f2f1c524bc4a1d86",
+            "id": "fcf94b3a272f9ea5",
             "type": "tabs",
             "children": [
               {
-                "id": "1dc0c2355332e349",
+                "id": "9235bd2b3d467301",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mathematics/Individuals/Cauchy's Condensation Test.md",
+                    "file": "Mathematics/Category.md",
                     "mode": "source",
                     "source": false
                   }
                 },
-                "group": "befe748d5d5be194"
+                "group": "589568946339dc06"
               },
               {
-                "id": "3158e81dc3d5f7db",
+                "id": "8d9f4d95307f2579",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mathematics/Individuals/Definition of a Ring.md",
-                    "mode": "source",
+                    "file": "Individuals/Field Axioms of R.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "07674d70f5d0a8cb",
+            "id": "fbc8598442bd8978",
             "type": "tabs",
             "children": [
               {
-                "id": "b4d4b6f76ef6582b",
+                "id": "bf2dc913173781f5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mathematics/Individuals/Cauchy's Condensation Test.md",
+                    "file": "Mathematics/Category.md",
                     "mode": "preview",
                     "source": false
                   }
                 },
-                "group": "befe748d5d5be194"
+                "group": "589568946339dc06"
               }
             ]
->>>>>>> Stashed changes
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c46007d253a892f9",
+    "id": "00e66080503b34cf",
     "type": "split",
     "children": [
       {
-        "id": "d89ba5c6b2ec64ce",
+        "id": "4ed21a6f71468e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "add0607bcc776578",
+            "id": "a9e45389eadce374",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,16 +82,12 @@
             }
           },
           {
-            "id": "de26047d8611fe2b",
+            "id": "ddff9fda8eaf75cc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
-                "query": "group definition",
-=======
-                "query": "p-ser",
->>>>>>> Stashed changes
+                "query": "def",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +97,7 @@
             }
           },
           {
-            "id": "6f3b7b2431e3700f",
+            "id": "41ab84942a50e0b2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -125,27 +108,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "4413c4e76ba2db87",
+    "id": "0fc59b0d6f39078e",
     "type": "split",
     "children": [
       {
-        "id": "8d4caa3699b22d00",
+        "id": "780692e5b5db55dc",
         "type": "tabs",
         "children": [
           {
-            "id": "52edc37e7f2708c1",
+            "id": "692712e8364ad779",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Homework/FPM Assignment 3.md",
-=======
-                "file": "Mathematics/Individuals/Definition of a Ring.md",
->>>>>>> Stashed changes
+                "file": "Mathematics/Category.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,23 +136,19 @@
             }
           },
           {
-            "id": "4db31e5c88132da4",
+            "id": "afcd76bacf863af3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Homework/FPM Assignment 3.md",
-=======
-                "file": "Mathematics/Individuals/Definition of a Ring.md",
->>>>>>> Stashed changes
+                "file": "Mathematics/Category.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a13be9935bc65e3a",
+            "id": "418f68a04a75453b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,21 +159,17 @@
             }
           },
           {
-            "id": "72e5801c02ca9b5d",
+            "id": "8bac6b116a99e0f8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Homework/FPM Assignment 3.md"
-=======
-                "file": "Mathematics/Individuals/Definition of a Ring.md"
->>>>>>> Stashed changes
+                "file": "Mathematics/Category.md"
               }
             }
           },
           {
-            "id": "2b3457c46d697d41",
+            "id": "8ce0418d7250d6a6",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -206,56 +177,38 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "516b3651fd15d38d",
+  "active": "9235bd2b3d467301",
   "lastOpenFiles": [
-    "Mathematics/Coset.md",
-    "Homework/FPM Assignment 3.md",
-    "Mathematics/Defining the Real Numbers.md",
-    "Individuals/Defining a Group.md",
-    "Mathematics/Subgroups.md",
-    "Individuals/Cyclic Subgroups.md",
-    "Untitled.canvas",
-    "Cognitive Science/Bayes Rule.md",
-    "Individuals/Coset Rules.md",
-    "Individuals/Definition of a Coset.md",
-    "Individuals/Coset Notation.md",
-    "Individuals/Equivalence Class.md",
-    "Templates/Theorem.md",
-    "Templates/Definition.md",
-    "Templates/Example.md",
-    "Templates/Main.md"
-=======
-  "active": "3158e81dc3d5f7db",
-  "lastOpenFiles": [
+    "Individuals/Isomorphism.md",
+    "Mathematics/Category.md",
+    "Individuals/Category Notation.md",
+    "Mathematics/Definition of a Category.md",
+    "Individuals/Homomorphism.md",
     "Mathematics/Rings.md",
-    "Mathematics/Individuals/Cauchy's Condensation Test.md",
-    "Mathematics/Individuals/P-series test.md",
-    "Mathematics/Proving a Series is Convergent.md",
-    "Mathematics/Random.md",
-    "Mathematics/Individuals/Defining the Absolute Value.md",
-    "Mathematics/Test.md",
-    "Mathematics/Symmetries.md",
-    "Mathematics/Individuals/Monotone Sequences.md",
-    "Cognitive Science/Bayes Rule.md"
->>>>>>> Stashed changes
+    "Individuals/Ring Axioms.md",
+    "Individuals/Ring rng notation.md",
+    "Individuals/Field Axioms of R.md",
+    "Mathematics/Defining the Real Numbers.md",
+    "Individuals/Coset.md",
+    "Mathematics/Groups.md",
+    "Individuals/Abelian Group.md",
+    "Individuals/Definition of a Ring.md"
   ]
 }
