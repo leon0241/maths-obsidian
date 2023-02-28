@@ -35,5 +35,14 @@
       "key": "4"
     }
   ],
-  "editor:set-heading-5": []
+  "editor:set-heading-5": [],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
 }

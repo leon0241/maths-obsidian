@@ -4,5 +4,8 @@
   "obsidian-admonition",
   "obsidian-latex",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax",
+  "obsidian-pandoc",
+  "table-editor-obsidian"
 ]
