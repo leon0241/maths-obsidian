@@ -9,7 +9,7 @@
 Show that the harmonic series $\displaystyle\sum_{n=1}^{\infty} \frac{1}{k}$ diverges
 Observe that
 $$\begin{align}
- \displaystyle\sum_{n=1}^{\infty} &= \frac{1}{k} = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5}  +\frac{1}{6} + \frac{1}{7} + \frac{1}{8} + \cdots \\
+ \displaystyle\sum_{n=1}^{\infty} = \frac{1}{k} &= 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5}  +\frac{1}{6} + \frac{1}{7} + \frac{1}{8} + \cdots \\
 &= 1+\left( \frac{1}{2} \right)+\left( \frac{1}{3} + \frac{1}{4} \right) + \left( \frac{1}{5} + \frac{1}{6} + \frac{1}{7} + \frac{1}{8}\right) + \cdots \\
 &\ge 1 + \left( \frac{1}{2} \right) + \left( \frac{1}{4} + \frac{1}{4} \right) + \left( \frac{1}{8}+\frac{1}{8}+\frac{1}{8}+\frac{1}{8} \right) + \cdots \\
 &= 1 + \left( \frac{1}{2} \right) + \left( \frac{1}{2} \right) + \left( \frac{1}{2} \right) + \cdots

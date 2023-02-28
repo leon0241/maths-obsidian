@@ -1,7 +1,7 @@
 **Tags:** #Theorem #Analysis/Series #Course/FPM
 ###### [[Cauchy's Condensation Test]]
 > [!Theorem]+
-> Let $(a_n)_{n\in\N}$ be a **decreasing** sequence with non-negative terms. Then the following are equivalent:
+> Let $(a_n)_{n\in\N}$ be a [[Monotone Sequences|decreasing sequence]]  with non-negative terms. Then the following are equivalent:
 > 1. The series $\dsumoinf a_n$ converges 
 > 2. The series $\dsumzinf 2^na_{2^n}$ converges.
 
