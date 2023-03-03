@@ -29,3 +29,12 @@ eH = e * H = \{e*h\,|\,h\in H\} = \{0+h\,|\, h\in H\} = \{0,2\} \\
 > We also have
 > $$G/H=\{eH=2H,1H=3H\} = \{\{0,2\}, \{1,3\}\}$$
 
+![[Equivalence Modulo Notation#Equivalence Modulo Notation]]
+
+![[Equivalence Modulo Theorem#Equivalence Modulo Theorem]]
+
+![[Coset Partition Theorem#Coset Partition Theorem]]
+
+![[Consequences of Coset partitions#Consequences of Coset partitions]]
+
+

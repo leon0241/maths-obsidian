@@ -11,6 +11,6 @@
 
 ###### [[Order of a Group|Example of Order]]
 > [!Example]+
-> Consider $1\in\Z$ under addition. Then $1*1=1+1=2,1*1*1=3,\dots$
+> Consider $1\in\Z$ under addition. Then $1*1=1+1=2,\,1*1*1=3,\dots$
 > $$\underbrace{1*\dots*1}_{n} = n \ne 0 =e$$
 > for any $n>0$. Hence, $1\in\Z$ has infinite order.

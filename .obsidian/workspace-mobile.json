@@ -8,13 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7595a9a600fbc399",
+            "id": "86bd76aad05b53da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals/Trapezoid Rule.md",
+                "file": "Individuals/Order of a Group.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8526af931f0af75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individuals/Group size Abelian Theorem.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Individuals/Trapezoid Rule.md",
+            "file": "Individuals/Order of a Group.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Individuals/Trapezoid Rule.md",
+            "file": "Individuals/Order of a Group.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Individuals/Trapezoid Rule.md"
+            "file": "Individuals/Order of a Group.md"
           }
         }
       }
@@ -132,13 +145,34 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7595a9a600fbc399",
+  "active": "86bd76aad05b53da",
   "lastOpenFiles": [
-    "Individuals/Degree of Precision.md",
+    "Individuals/Size of a Subgroup Theorem.md",
+    "Individuals/Coset.md",
+    "Individuals/Consequences of Coset partitions.md",
+    "Individuals/Coset Partition Theorem.md",
+    "Individuals/Equivalence Modulo Theorem.md",
+    "Individuals/Equivalence Modulo Notation.md",
+    "Individuals/Applications of Lagrange.md",
+    "Individuals/Prime size group theorem.md",
+    "Individuals/Group size Abelian Theorem.md",
+    "Individuals/Equivalence Class.md",
+    "Individuals/Equivalence Relation.md",
+    "Individuals/Lagrange's Theorem.md",
+    "Individuals/lagrangra.md",
+    "Individuals/Isomorphism.md",
+    "Individuals/Cyclic Subgroups.md",
+    "Individuals/Consequences of Cyclic subgroups.md",
+    "Individuals/Axiom of Completeness.md",
+    "Individuals/Intermediate Value Theorem.md",
+    "Individuals/Order of an element.md",
+    "Individuals/Order of a Group.md",
+    "Individuals/Examples of a cyclic subgroup.md",
+    "Individuals/Dihedral Group.md",
     "Individuals/Trapezoid Rule.md",
+    "Mathematics/Category.md",
+    "Individuals/Degree of Precision.md",
     "Individuals/Quadrature Rules.md",
-    "Computing Science/Integration in Python.md",
-    "Computing Science",
-    "Mathematics/Groups.md"
+    "Computing Science"
   ]
 }
