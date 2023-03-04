@@ -1,0 +1,3 @@
+**Tags:** #Definition 
+###### [[{{title}}]]
+> [!Definition]+

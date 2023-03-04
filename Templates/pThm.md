@@ -1,0 +1,3 @@
+**Tags:** #Theorem 
+###### [[{{title}}]]
+> [!Theorem]+

@@ -44,5 +44,14 @@
       ],
       "key": "R"
     }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "6"
+    }
   ]
 }

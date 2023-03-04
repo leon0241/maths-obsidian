@@ -1,0 +1,3 @@
+**Tags:** #Notation 
+###### [[{{title}}]]
+> [!Notation]+

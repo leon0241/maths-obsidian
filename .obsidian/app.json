@@ -7,7 +7,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Individuals",
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100

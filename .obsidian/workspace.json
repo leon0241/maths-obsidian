@@ -4,61 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "c66444b667861bd2",
-        "type": "split",
+        "id": "0d4a4ef3b82f50c2",
+        "type": "tabs",
         "children": [
           {
-            "id": "fcf94b3a272f9ea5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9235bd2b3d467301",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mathematics/Category.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "589568946339dc06"
-              },
-              {
-                "id": "8d9f4d95307f2579",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Individuals/Field Axioms of R.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "80b0bb39f1ae682a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individuals/Equivalence Modulo Notation.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "fbc8598442bd8978",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf2dc913173781f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mathematics/Category.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "589568946339dc06"
-              }
-            ]
+            },
+            "group": "321babcbf21baa67"
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "cfda1b8b35d55788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8050401075ed7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Individuals/Equivalence Modulo Notation.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "321babcbf21baa67"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Category.md",
+                "file": "Individuals/Equivalence Modulo Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Category.md",
+                "file": "Individuals/Equivalence Modulo Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Category.md"
+                "file": "Individuals/Equivalence Modulo Notation.md"
               }
             }
           },
@@ -194,21 +175,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9235bd2b3d467301",
+  "active": "80b0bb39f1ae682a",
   "lastOpenFiles": [
-    "Individuals/Isomorphism.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Mathematics/Coset.md",
     "Mathematics/Category.md",
-    "Individuals/Category Notation.md",
-    "Mathematics/Definition of a Category.md",
-    "Individuals/Homomorphism.md",
-    "Mathematics/Rings.md",
-    "Individuals/Ring Axioms.md",
-    "Individuals/Ring rng notation.md",
-    "Individuals/Field Axioms of R.md",
-    "Mathematics/Defining the Real Numbers.md",
-    "Individuals/Coset.md",
-    "Mathematics/Groups.md",
+    "Individuals/Size of a Subgroup Theorem.md",
+    "Individuals/Relation.md",
+    "Templates/bEx.md",
+    "Templates/bThm.md",
+    "Templates/bNot.md",
+    "Templates/bDef.md",
+    "Templates/pDef.md",
+    "Templates/pNot.md",
+    "Templates/pThm.md",
+    "Templates/Main.md",
+    "Individuals/Partition.md",
+    "Individuals/Equivalence Modulo Notation.md",
     "Individuals/Abelian Group.md",
-    "Individuals/Definition of a Ring.md"
+    "Individuals/Convergent Series Notation.md",
+    "Mathematics/Test.md",
+    "Individuals/lagrangra.md",
+    "Individuals/Trapezoid Rule.md",
+    "Individuals/Quadrature Rules.md",
+    "Individuals/Prime size group theorem.md",
+    "Individuals/Intermediate Value Theorem.md",
+    "Individuals/Group size Abelian Theorem.md",
+    "Individuals/Examples of a cyclic subgroup.md",
+    "Individuals/Equivalence Modulo Theorem.md",
+    "Computing Science"
   ]
 }
