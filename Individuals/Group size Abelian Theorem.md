@@ -1,7 +1,9 @@
-**Tags:** 
-###### [[Group size Abelian Theorem]]
-> [!Theorem]+
+**Tags:** #Theorem #Algebra/Groups #Course/FPM #TODO 
+
+> [!Theorem]+ Thm: [[Group size Abelian Theorem]]
 > Suppose that $G$ is a group with $\lvert G \rvert < 6$. Then $G$ is [[Abelian Group|abelian]]
+
+^f0b841
 
 ###### Proof
 - If $\lvert G \rvert = 1$, then $G$ is abelian

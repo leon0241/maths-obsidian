@@ -12,6 +12,11 @@
 ###### [[Test]]
 > [!Remark]
 
+> [!Lemma]+ Lem: [[Test|testt]]
+> testst
+
+
+
 If $f(x)$ is even,
 $$\int_{-a}^{a} f(x) \, dx = 2\int_{0}^{a} f(x) \, dx  $$
 If $f(x)$ is odd,

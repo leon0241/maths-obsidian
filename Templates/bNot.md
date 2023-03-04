@@ -1,1 +1,1 @@
-> [!Notation]+
+> [!Notation]+ Ntn: [[{{title}}|]]

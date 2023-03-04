@@ -1,1 +1,1 @@
-> [!Theorem]+
+> [!Theorem]+ Thm: [[{{title}}|]]

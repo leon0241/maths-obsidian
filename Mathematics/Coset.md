@@ -1,20 +1,19 @@
 **Tags:** #Algebra/Groups #Main #Course/FPM 
-![[Partition#Partition]]
+![[Partition#^239899]]
 
 When we want to partition an set like shown above, we use an equivalence relation:
 
-![[Relation#Relation]]
+![[Relation#^149542]]
 
-![[Equivalence Relation#Equivalence Relation]]
+![[Equivalence Relation#^853398]]
 
-![[Equivalence Class#Equivalence Class]]
+![[Equivalence Class#^6dbdfd]]
 
-![[Coset Notation#Coset Notation]]
+![[Coset Notation#^5f041f]]
 
-![[Definition of a Coset#Definition of a Coset]]
+![[Definition of a Coset#^6eae3f]]
 
-###### [[Coset|Example of a Coset]]
-> [!Example]
+> [!Example]+ Ex: [[Coset|Example of a Coset]]
 > Consider $\Z_{4}$ under addition, and let $H=\{0,2\}$ ($e=0$.) The cosets of $H$ in $G$ are:
 > $$\displaylines{
 eH = e * H = \{e*h\,|\,h\in H\} = \{0+h\,|\, h\in H\} = \{0,2\} \\
@@ -28,5 +27,7 @@ eH = e * H = \{e*h\,|\,h\in H\} = \{0+h\,|\, h\in H\} = \{0,2\} \\
 > The above shows that $g_{1}H=g_{2}H$ is possible, even when $g_{1}\ne g_{2}$
 > We also have
 > $$G/H=\{eH=2H,1H=3H\} = \{\{0,2\}, \{1,3\}\}$$
+
+![[Coset Rules#^e0f9d3]]
 
 ###### [[Lagrange's Theorem]]

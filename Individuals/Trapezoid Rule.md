@@ -1,6 +1,6 @@
-**Tags:** 
-###### [[Trapezoid Rule]]
-> [!Example]+
+**Tags:** #Python/Numpy #Definition #Course/CNU 
+
+> [!Definition]+ Def: [[Trapezoid Rule]]
 > 1. Choose nodes $x_{0}=-1, x_{1}=1$
 > 2. With 2 nodes, the *interpolating polynomial* has degree 1
 > 3. We therefore need the [[Quadrature Rules|quadrature rule]] to integrate degree-1 polynomials exactly i.e. to have [[Degree of Precision|degree of precision]] of at least 1

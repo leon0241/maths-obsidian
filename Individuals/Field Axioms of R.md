@@ -1,6 +1,6 @@
 **Tags:** #Analysis/Reals #Definition #Course/FPM 
-###### [[Field Axioms of R]]
-> [!Definition]+
+
+> [!Definition]+ Def: [[Field Axioms of R]]
 > The set $\R$ is equipped with the algebraic operations $+$ and $\cdot$ (Domain $\R\times\R$, and range $\R$). We assume that the triple ($\R,+,\cdot$) is a field which means it satisfies the following for every $a, b,c\in\R$
 > - **F1 - Closure:** $a + b$ and $a \cdot b$ belong to $\R$
 > - **F2 - Associativity:** $(a+b)+c=a+(b+c)$ and $(a\cdot b)\cdot c = a \cdot(b\cdot c)$.
@@ -13,6 +13,8 @@
 > 	- $a\cdot (b+c) = a\cdot b + a\cdot c$
 > 	- $(b+c)\cdot a=(b\cdot a) + (c\cdot a)$ 
 > 	- (this is the only law connecting addition with multiplication)
+
+^eefa7b
 
 #### Other Information
 > [!Remark]

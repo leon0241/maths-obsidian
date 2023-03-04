@@ -1,7 +1,9 @@
 **Tags:** #Analysis/Reals  #Theorem #Course/FPM 
-###### [[Archimedean Principle]]
-> [!Theorem]+
+
+> [!Theorem]+ [[Archimedean Principle]]
 > Given positive real numbers $a,b\in\R$ there is an integer $n\in\N$ such that $b<na$
+
+^7feff5
 
 #### Idea
 Shows that even if $a$ is quite small, and $b$ is quite large then some integer multiple of $a$ will exceed $b$. This is like saying a bathtub can be emptied with a spoon given enough time.

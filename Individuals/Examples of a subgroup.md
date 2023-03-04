@@ -1,7 +1,6 @@
 **Tags:** #Algebra/Groups #Collection #Course/FPM 
-###### [[Examples of a subgroup]]
 
-> [!Example]+
+> [!Example]+ Ex: [[Examples of a subgroup]]
 > - $G$ is a subgroup of itself. Also, $\{e\}$ is a subgroup of $G$, called the *trivial subgroup*
 > - $\Z<\Q<\R<\C$ under addition
 > - Consider $G=S_{3}$. Let $H$ denote all the premutations that send $1$ to itself. The two permutations are the identity, and the one that swaps $2$ and $3$ (Reflection). Then $H<G$

@@ -1,6 +1,6 @@
 **Tags:** #Algebra/Groups #Notation #Course/FPM 
-###### [[Visual diagram of sets]]
-> [!Notation]+
+
+> [!Notation]+ Ntn: [[Visual diagram of sets]]
 > Intuitively, we often think of sets schematically as blobs containing elements, drawn as dots:
 > ![[Pasted image 20230213172002.png]]
 > For various reasons, often we want to *partition* this set into smaller pieces, which we draw as

@@ -1,4 +1,4 @@
-**Tags:** 
-###### [[Degree of Precision]]
-> [!Definition]+
+**Tags:** #Definition #TODO 
+
+> [!Definition]+ Def: [[Degree of Precision]]
 > 

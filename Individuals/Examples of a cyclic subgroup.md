@@ -1,6 +1,6 @@
-**Tags:** 
-###### [[Examples of a cyclic subgroup]]
-> [!Example]+
+**Tags:** #Collection #Algebra/Groups #Course/FPM 
+
+> [!Example]+ Ex: [[Examples of a cyclic subgroup]]
 > - $\Z_{n}$ under addition is cyclic, since $\langle 1 \rangle = \Z_{n}$
 > From [[Definition of the power subset|power subset]], the group $\langle 1 \rangle$ is defined as
 > $$\begin{align}
@@ -13,3 +13,5 @@
 > - In $D_{n}$, the subgroup $H$ consisting of the identity and all the rotations, i.e.
 > - $$H = \{e,\,g,\,g^2,\,\dots,\,g^{n-1}\}$$
 > is a cyclic subgroup since $H = \langle g \rangle$. Note also that $H=\langle g^{-1} \rangle$
+
+^050108

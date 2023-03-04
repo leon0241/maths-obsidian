@@ -1,7 +1,9 @@
 **Tags:** #Algebra/Groups #Theorem #Course/FPM 
-###### [[Equivalence Modulo Theorem]]
-> [!Theorem]+
+
+> [!Theorem]+ Thm: [[Equivalence Modulo Theorem]]
 > Let $G$ be a group, and let $H$ be a subgroup of $G$. Then [[Equivalence Modulo Notation|equivalence modulo]] $H$ is an [[Equivalence Relation|equivalence relation]] on $G$
+
+^6a9f28
 
 ###### Proof
 By the definition of an [[Equivalence Relation]], we must show that the relation is reflexive, symmetric, and transitive.
