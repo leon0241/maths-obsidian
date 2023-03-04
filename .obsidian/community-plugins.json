@@ -4,8 +4,8 @@
   "obsidian-latex",
   "obsidian-latex-suite",
   "obsidian-git",
-  "obsidian-tikzjax",
   "obsidian-pandoc",
   "table-editor-obsidian",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-tikzjax"
 ]
