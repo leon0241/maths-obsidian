@@ -1,3 +1,11 @@
+---
+title: "Category"
+tags:
+- main
+- algebra/categories
+- course/category-theory
+---
+
 **Tags:** #Main #Algebra/Categories #Course/Category_Theory 
 ###### [[Category]]
 ![[Definition of a Category#^71e1c1]]

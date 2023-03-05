@@ -1,6 +1,7 @@
 **Tags:** #Algebra/Categories #Definition #Course/Category_Theory 
 
 > [!Definition]+ Def: [[Definition of a Category]]
+> 
 > A category $\mathcal{C}$ consists of 
 > - A collection $ob(\mathcal{C})$ of *objects*;
 > - For each $A,B\in ob(\mathcal{C})$, a collection $\mathcal{C}(A,B)$ of *maps* or *arrows* or *morphisms* from $A$ to $B$
