@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "756791e71852381c",
+        "id": "2fd8d48d3b1b7b69",
         "type": "tabs",
         "children": [
           {
-            "id": "7595a9a600fbc399",
+            "id": "19adf4c209c58dec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Individuals/Axiom of Completeness.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathematics/Individuals/Axiom of Completeness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathematics/Individuals/Axiom of Completeness.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -113,16 +107,51 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Mathematics/Individuals/Axiom of Completeness.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 1
   },
-  "active": "7595a9a600fbc399",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "19adf4c209c58dec",
   "lastOpenFiles": [
-    "Mathematics/Groups.md"
+    "Individuals/Size of a Subgroup Theorem.md",
+    "Individuals/Coset.md",
+    "Individuals/Consequences of Coset partitions.md",
+    "Individuals/Coset Partition Theorem.md",
+    "Individuals/Equivalence Modulo Theorem.md",
+    "Individuals/Equivalence Modulo Notation.md",
+    "Individuals/Applications of Lagrange.md",
+    "Individuals/Prime size group theorem.md",
+    "Individuals/Group size Abelian Theorem.md",
+    "Individuals/Equivalence Class.md",
+    "Individuals/Equivalence Relation.md",
+    "Individuals/Lagrange's Theorem.md",
+    "Individuals/lagrangra.md",
+    "Individuals/Isomorphism.md",
+    "Individuals/Cyclic Subgroups.md",
+    "Individuals/Consequences of Cyclic subgroups.md",
+    "Individuals/Axiom of Completeness.md",
+    "Individuals/Intermediate Value Theorem.md",
+    "Individuals/Order of an element.md",
+    "Individuals/Order of a Group.md",
+    "Individuals/Examples of a cyclic subgroup.md",
+    "Individuals/Dihedral Group.md",
+    "Individuals/Trapezoid Rule.md",
+    "Mathematics/Category.md",
+    "Individuals/Degree of Precision.md",
+    "Individuals/Quadrature Rules.md",
+    "Computing Science"
   ]
 }

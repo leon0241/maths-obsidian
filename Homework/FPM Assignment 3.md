@@ -149,15 +149,16 @@ $$\begin{align}
 **Case 1**: If $a<1$, then as $n\to\infty$, $a^n$ is decreasing. Therefore $a^n\to 0$ as $n\to \infty$.
 As $n \to \infty$, the $\displaystyle\binom{n}{k}\frac{2^ka^{n-k}}{n^k}$ and $\displaystyle\binom{n}{k}\frac{1}{n^k}$ terms will approach 0, effectively cancelling them out.
 $$\frac{\displaystyle a^n +\binom{n}{1}\frac{2a^{n-1}}{n} + \binom{n}{2}\frac{2^2a^{n-2}}{n^2} + \cdots+\binom{n}{n-1}\frac{2^{n-1}a}{n^{n-1}}  + \frac{2^n}{n^n}} {\displaystyle 1+\binom{n}{1} \frac{1}{n}+\binom{n}{2} \frac{1}{n^2}+\cdots+\binom{n}{n-1} \frac{1}{n^{n-1}} + \frac{1}{n^n}} \implies \frac{a^n}{1}=a^n=L_{1}$$
-Since $a^n\to 0$ as $n\to\infty$, $L_{1}\to 0$ and via the root test, the series converges via the root test.
+Since $a^n\to 0$ as $n\to\infty$, $L_{1}\to 0$ and via the root test, the series converges if $a<1$.
 
 **Case 2:** if $a=1$, then as $n\to \infty$, $a^n\to1$.
 $$\frac{\displaystyle 1 +\binom{n}{1}\frac{2}{n} + \binom{n}{2}\frac{2^2}{n^2} + \cdots+\binom{n}{n-1}\frac{2^{n-1}}{n^{n-1}}  + \frac{2^n}{n^n}} {\displaystyle 1+\binom{n}{1} \frac{1}{n}+\binom{n}{2} \frac{1}{n^2}+\cdots+\binom{n}{n-1} \frac{1}{n^{n-1}} + \frac{1}{n^n}} = L_{2}$$
 From this, you can clearly see that as $2>1,\,2^2>1,\,2^3>1\, \dots$, this means the denominator will be larger than the numerator as $n\to\infty$, therefore $L_{2}>1$, therefore via the root test the series diverges.
-**Case 3:** if $a>1$, then as then as $n\to \infty$, $a^n >1$. 
+**Case 3:** if $a>1$, then as then as $n\to \infty$, $a^n \to\infty$. 
 $$\frac{\displaystyle a^n +\binom{n}{1}\frac{2a^{n-1}}{n} + \binom{n}{2}\frac{2^2a^{n-2}}{n^2} + \cdots+\binom{n}{n-1}\frac{2^{n-1}a}{n^{n-1}}  + \frac{2^n}{n^n}} {\displaystyle 1+\binom{n}{1} \frac{1}{n}+\binom{n}{2} \frac{1}{n^2}+\cdots+\binom{n}{n-1} \frac{1}{n^{n-1}} + \frac{1}{n^n}} = L_{3}$$
-Since $L_{3} \ge L_{2}$ for all $n$, then by the comparison test since $L_{2}$ diverges, so must $L_{3}$
+Since $L_{3} \ge L_{2}$ for all $n$, then via the comparison test since $L_{2}$ diverges, so must $L_{3}$
 
 Therefore, from these three results we can see that for the series
 $$\displaystyle\sum_{n=1}^{\infty} \left( \frac{an+2}{n+1} \right)^{n^{2}}$$
 The series will converge if $a<0$, and it will diverge if $a\ge 0$.
+%%EOF%%

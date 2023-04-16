@@ -1,8 +1,8 @@
 **Tags:** #Analysis/Reals #Theorem #Course/FPM 
-###### [[Density of the Rational Numbers]]
-> [!Theorem]+
+
+> [!Theorem]+ Thm: [[Density of the Rational Numbers]]
 > Let $a<b$ be real numbers. Then there exists a $q\in\Q$ such that $a < q < b$.
 
-#### Proof
+^800178
 
-#### Example
+%%EOF%%

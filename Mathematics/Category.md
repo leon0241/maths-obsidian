@@ -1,7 +1,7 @@
-**Tags:** 
-###### [[Category]]
-![[Definition of a Category#Definition of a Category]]
+**Tags:** #Main #Algebra/Categories #Course/Category_Theory 
 
-![[Category Notation#Category Notation]]
+![[Definition of a Category#^824748]] ^4991b1
 
-![[Isomorphism#Isomorphism Isomorphisms in Category Theory]]
+![[Functor#^c7347e]]
+
+#### [[Giant List of Categories]]

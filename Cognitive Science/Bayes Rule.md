@@ -11,3 +11,4 @@
 > - $P(D|H)$ - Likelihood: how likely would a given hypothesis result in this data
 > - $P(H)$ - [[Prior Belief]]: what you believe about hypotheses before seeing data
 > - $P(D)$ - Evidence: how likely is this data in general
+%%EOF%%

@@ -1,6 +1,6 @@
 **Tags:** #Analysis/Proofs #Notation #Course/FPM 
-###### [[Convergent Series Notation]]
-> [!Notation]+
+
+> [!Notation]+ Ntn: [[Convergent Series Notation]]
 > The following phrases will be used interchangeably:
 > - $(x_{n})$ converges to $a$
 > - $x_{n}$ converges to $a$ as $n$ goes to infinity
@@ -8,6 +8,6 @@
 > - $\displaystyle\lim_{ n \to \infty } x_{n} = a$
 > - the *limit* of $(x_{n})$ exists and is equal to $a$
 
-#### Proof
+^bf97e3
 
-#### Example
+%%EOF%%

@@ -7,6 +7,8 @@ set clipboard=unnamed
 " Insert Mode key bindings
 imap jk <Esc>
 iunmap <C-c>
+iunmap <C-x>
+
 
 
 " Normal Mode key bindings

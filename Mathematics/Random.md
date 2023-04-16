@@ -1,3 +1,3 @@
 **Tags:** #Collection #Course/FPM 
-###### [[Random]]
-#### [[Functions]] - Injective/Surjective/Bijective
+
+##### [[Functions]] - Injective/Surjective/Bijective
