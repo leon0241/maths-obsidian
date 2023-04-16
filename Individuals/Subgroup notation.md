@@ -18,3 +18,5 @@ Just to make life easier, but when dealing with groups under addition it may be 
 > $$
 
 ^f1b3b9
+
+%%EOF%%

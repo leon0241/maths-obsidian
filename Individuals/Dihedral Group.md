@@ -12,4 +12,11 @@
 
 ^2be415
 
-
+> [!Example]+ [[Dihedral Group|Example: ]] Symmetries of an equilateral Triangle($D_{3}$)
+> ![[Pasted image 20230412102532.png]]
+> The $6$ symmetries of a triangle are:
+> - The identity $e$, or a rotation of nothing (not shown)
+> - Rotation of $\displaystyle\frac{2\pi}{3}$, which we call $g$
+> - Rotation of $\displaystyle \frac{4\pi}{3}$. Notice this is the same as $g\cdot g$
+> - Vertical reflection (middle one), which we call $h$
+> - Side reflections. Notice the left reflection is the same as $h\cdot g$, while the right reflection is the same as $h\cdot g\cdot g$

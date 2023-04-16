@@ -3,9 +3,8 @@
   "obsidian-vimrc-support",
   "obsidian-latex",
   "obsidian-latex-suite",
-  "obsidian-git",
   "obsidian-pandoc",
   "table-editor-obsidian",
-  "multi-column-markdown",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "tag-wrangler"
 ]

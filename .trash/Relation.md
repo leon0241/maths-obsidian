@@ -10,3 +10,4 @@
 > Let $n\ge 2$ be an integer. We define a relation called *equivalence modulo* $n$ on the set $\Z$ of all integers as follows:
 > $$\text{for } a,b\in\mathbb{Z},\quad aRb \text{ if and only if } a-b \text{ is divisible by n}$$
 > For this relation, $aRb$ is written $a\equiv b\bmod{n}$. For example, $17\equiv 2\bmod{5}$
+%%EOF%%

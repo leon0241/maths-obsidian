@@ -10,5 +10,7 @@
 
 ![[Examples of a cyclic subgroup#^050108]]
 
-###### [[Consequences of Cyclic subgroups]]
+###### [[Consequences of Cyclic groups]]
 
+
+%%EOF%%

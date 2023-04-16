@@ -1,5 +1,5 @@
 **Tags:** #Analysis/Proofs #Collection #Course/FPM 
-###### [[Examples of an Epsilon N Proof]]
+
 > [!Example]+ Ex: [[Examples of an Epsilon N Proof|Showing 1/n converges to 0]]
 > Show that $\frac{1}{n}\to 0$ as $n\to\infty$
 > Pick any $\epsilon<0$. From the [[Archimedean Principle]] it follows that there exists $N\in\N$ such that $N>\frac{1}{\epsilon}$ or $\frac{1}{N} < \epsilon$. It follows that if $N\ge N$ then
@@ -24,3 +24,5 @@
 > Since $9n+6>9n$, if the left fraction is bounded by the right fraction, and the right fraction is still always smaller than $\epsilon$, then it follows that the left is also smaller than $\epsilon$.
 > Therefore, let $\epsilon>0$. Pick a positive integer $N$ such that $N>\frac{11}{9\epsilon}$. Then $\frac{11}{9N} < \epsilon$. For all $n$ with $n\ge N$, we have
 > $$\lvert a_{n}-L \rvert = \left\lvert  \frac{2n+5}{3n+2} - \frac{2}{3}  \right\rvert =\frac{11}{9n+6} \le \frac{11}{9n} \le \frac{11}{9N}<\epsilon$$
+
+%%EOF%%

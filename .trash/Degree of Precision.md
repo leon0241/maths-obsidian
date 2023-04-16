@@ -2,3 +2,5 @@
 ###### [[Degree of Precision]]
 > [!Definition]+
 > 
+
+%%EOF%%

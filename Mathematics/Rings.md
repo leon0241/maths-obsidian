@@ -1,5 +1,4 @@
 **Tags:** #Algebra/Groups #Main #Course/Category_Theory
-###### [[Rings]]
 
 ![[Definition of a Ring#^9c1e7e]]
 

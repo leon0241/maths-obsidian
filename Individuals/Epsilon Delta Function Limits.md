@@ -40,3 +40,4 @@
 > 
 > ![[Pasted image 20230304182042.png]]
 > We can also define uniform continuity as having a consistent $\delta$ for an $\epsilon$ on any point on a graph. You can see that if the point was moved to the left, the bounds for the size of $\delta$ would shrink. This is not covered on the course however, so it does not matter in this context.
+%%EOF%%

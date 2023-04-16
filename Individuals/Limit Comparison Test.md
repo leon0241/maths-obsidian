@@ -15,3 +15,4 @@ By the [[Comparison Test#^c38bd1|comparison test]], if $\dsumoinf b_n$ converges
 Also, $$b_n < \frac{2}{L}a_n$$
 for all $n$ with $n\geq N$.
 By the Comparison Test, if $\dsumoinf a_n$ converges then $\dsumoinf b_n$ converges as well
+%%EOF%%

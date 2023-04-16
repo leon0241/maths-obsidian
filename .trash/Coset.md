@@ -38,3 +38,5 @@ eH = e * H = \{e*h\,|\,h\in H\} = \{0+h\,|\, h\in H\} = \{0,2\} \\
 ![[Consequences of Coset partitions#Consequences of Coset partitions]]
 
 
+
+%%EOF%%

@@ -4,32 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "756791e71852381c",
+        "id": "2fd8d48d3b1b7b69",
         "type": "tabs",
         "children": [
           {
-            "id": "86bd76aad05b53da",
+            "id": "19adf4c209c58dec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals/Order of a Group.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8526af931f0af75f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals/Group size Abelian Theorem.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Individuals/Order of a Group.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Individuals/Order of a Group.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -126,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Individuals/Order of a Group.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -145,7 +124,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "86bd76aad05b53da",
+  "active": "19adf4c209c58dec",
   "lastOpenFiles": [
     "Individuals/Size of a Subgroup Theorem.md",
     "Individuals/Coset.md",

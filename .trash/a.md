@@ -21,3 +21,5 @@ _Let $\cat{C}$ be a category and fix $X\in\obj\l(\cat{C}\r)$. An **automorphism 
 ```
 
 **Remark.** Denote the set of all automorphisms of $X$ as $\aut\l(X\r)$.<span style="float:right;">$\blacklozenge$</span>
+
+%%EOF%%

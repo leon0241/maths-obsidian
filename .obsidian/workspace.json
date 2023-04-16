@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4a4ef3b82f50c2",
+        "id": "5d0ace621ef7d018",
         "type": "tabs",
         "children": [
           {
-            "id": "80b0bb39f1ae682a",
+            "id": "82d40c7939808811",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals/Monotone Convergence Theorem.md",
+                "file": "Mathematics/Differentiation.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "8ef71418a0f0fe3f"
+          }
+        ]
+      },
+      {
+        "id": "9fe25187778e41b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cada8ea707f1d79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Differentiation.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "8ef71418a0f0fe3f"
           }
         ]
       }
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "def",
+                "query": "tag:#Theorem #",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0fc59b0d6f39078e",
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Individuals/Monotone Convergence Theorem.md",
+                "file": "Mathematics/Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Individuals/Monotone Convergence Theorem.md",
+                "file": "Mathematics/Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Individuals/Monotone Convergence Theorem.md"
+                "file": "Mathematics/Differentiation.md"
               }
             }
           },
@@ -137,56 +157,68 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80b0bb39f1ae682a",
+  "active": "82d40c7939808811",
   "lastOpenFiles": [
-    "Individuals/Monotone Sequences.md",
-    "Individuals/Limit Comparison Test.md",
-    "Individuals/Least Upper Bound Property.md",
-    "Individuals/Isomorphism.md",
-    "Individuals/Homomorphism.md",
-    "Individuals/Integral Test.md",
-    "Mathematics/Definition of a Category.md",
+    "Individuals/Differentiation Rules.md",
+    "Mathematics/Differentiation.md",
+    "Individuals/Differentiation and Continuity.md",
+    "Images/Pasted image 20230412114037.png",
+    "Individuals/Differentiable Intervals.md",
+    "Individuals/One-sided Derivatives.md",
+    "Individuals/Tangent to a graph.md",
+    "Images/Pasted image 20230412113025.png",
+    "Mathematics/Going between Groups.md",
+    "Mathematics/Lagrange's Theorem.md",
+    "Mathematics/Monoids and Category Isomorphisms.md",
+    "Individuals/Symmetric Group.md",
+    "Individuals/Examples of Graphs and Symmetries.md",
+    "Images/Pasted image 20230412103907.png",
+    "Images/Pasted image 20230412103906.png",
+    "Images/Pasted image 20230412103626.png",
+    "Mathematics/Symmetries and Graphs.md",
+    "Individuals/Dihedral Group.md",
+    "Images/Pasted image 20230412102532.png",
+    "Individuals/Examples of a group.md",
+    "Individuals/Definition of a Symmetry.md",
+    "Images/Pasted image 20230412102018.png",
+    "Individuals/Definition of a Graph.md",
+    "Mathematics/Group Actions.md",
+    "Mathematics/Defining the Real Numbers.md",
+    "Mathematics/Continuity and Functional Limits.md",
+    "Individuals/Showing a function is continuous.md",
+    "Mathematics/Coset.md",
     "Mathematics/Category.md",
-    "Individuals/Category Notation.md",
-    "Individuals/Axiom of Completeness.md",
-    "Individuals/Archimedean Principle.md",
-    "Individuals/Prime size group theorem.md",
-    "Individuals/Prior Belief.md",
-    "Individuals/Ratio Test.md",
-    "Individuals/Relation.md",
-    "Individuals/Epsilon Delta Function Limits.md",
-    "Individuals/Equivalence Modulo Notation.md",
-    "Individuals/Continuity.md",
-    "Individuals/Partition.md",
-    "Images/Pasted image 20230304181514.png",
-    "Images/Pasted image 20230304182042.png",
-    "Templates/bThm.md",
-    "Templates/bRem.md",
-    "Templates/bNot.md",
-    "Templates/bLem.md",
-    "Templates/bEx.md",
-    "Templates/Thm.md",
-    "Templates/Not.md",
-    "Images/Pasted image 20230304181335.png",
-    "Images/Pasted image 20230304181246.png",
+    "Individuals/Differentiable Points.md",
+    "private/iads pseudocode.md",
+    "Individuals/Stabilizer of a Set.md",
+    "Individuals/Orbit of a set.md",
+    "Images/Pasted image 20230328193341.png",
+    "Images/Pasted image 20230313020847.png",
+    "Images/Pasted image 20230312135144.png",
+    "e",
+    "New folder",
+    "Sample",
+    "old_index.txt",
+    "notes/images",
+    "notes",
     "Computing Science"
   ]
 }

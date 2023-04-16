@@ -14,3 +14,5 @@
 > 2. **Symmetry:** $|a-b| = |b-a|$
 > 3. **Triangle Inequality:** $|a+b| \le |a| +|b|$ and $||a|-|b||\le |a-b|$.
 
+
+%%EOF%%

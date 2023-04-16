@@ -8,3 +8,5 @@
 > Then for every integer $n\in\N_0$ the proposition $P(n)$ is true.
 
 ^d0cf32
+
+%%EOF%%

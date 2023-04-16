@@ -1,15 +1,7 @@
----
-title: "Category"
-tags:
-- main
-- algebra/categories
-- course/category-theory
----
-
 **Tags:** #Main #Algebra/Categories #Course/Category_Theory 
-###### [[Category]]
-![[Definition of a Category#^71e1c1]]
 
-![[Category Notation#^1e6868]]
+![[Definition of a Category#^824748]] ^4991b1
 
-![[Isomorphism#^6beee5]]
+![[Functor#^c7347e]]
+
+#### [[Giant List of Categories]]

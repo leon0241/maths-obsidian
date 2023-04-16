@@ -161,3 +161,4 @@ Since $L_{3} \ge L_{2}$ for all $n$, then via the comparison test since $L_{2}$ 
 Therefore, from these three results we can see that for the series
 $$\displaystyle\sum_{n=1}^{\infty} \left( \frac{an+2}{n+1} \right)^{n^{2}}$$
 The series will converge if $a<0$, and it will diverge if $a\ge 0$.
+%%EOF%%

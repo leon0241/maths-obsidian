@@ -13,7 +13,7 @@
 ![[Order Axioms of R#^8b3819]]
 
 #### Intermediate Knowledge
-- [[Defining Subsets of R (N,Z,Q)]]
+- [[Defining Subsets of R - N,Z,Q]]
 - [[Defining the Absolute Value]]
 
 #### Axiom of Completeness for $\R$
@@ -23,3 +23,4 @@
 
 #### The final formal definition of $\R$
 ![[Existence and Uniqueness of R#^4113f2]]
+%%EOF%%
