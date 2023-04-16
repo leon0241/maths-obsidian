@@ -21,4 +21,4 @@
 > - A similar argument can be said for $\Z$ under multiplication, but **G4** fails regardless of if $0$ is excluded or not. For example the only possible inverse of $2$ is $\frac{1}{2}$, but that is not an integer. The only elements of $(\Z\backslash\{ 0 \},\times )$ that have an inverse are $\{1,-1\}$
 
 ![[Dihedral Group#^2be415]]
-%%EOF%%
+
