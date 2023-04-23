@@ -11,8 +11,12 @@
             "id": "19adf4c209c58dec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Continuity and Functional Limits.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mathematics/Continuity and Functional Limits.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Mathematics/Continuity and Functional Limits.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Mathematics/Continuity and Functional Limits.md"
+          }
         }
       }
     ],
@@ -126,6 +134,16 @@
   },
   "active": "19adf4c209c58dec",
   "lastOpenFiles": [
+    "Mathematics/Group Actions.md",
+    "Mathematics/Differentiation.md",
+    "Mathematics/Continuity and Functional Limits.md",
+    "Mathematics/Coset.md",
+    "Mathematics/Subgroups.md",
+    "Individuals/Showing a function is continuous.md",
+    "Individuals/Examples of an Epsilon Delta Proof.md",
+    "Individuals/Epsilon Delta Function Limits.md",
+    "Individuals/Continuity.md",
+    "Mathematics/Going between Groups.md",
     "Individuals/Size of a Subgroup Theorem.md",
     "Individuals/Coset.md",
     "Individuals/Consequences of Coset partitions.md",
@@ -142,16 +160,6 @@
     "Individuals/Isomorphism.md",
     "Individuals/Cyclic Subgroups.md",
     "Individuals/Consequences of Cyclic subgroups.md",
-    "Individuals/Axiom of Completeness.md",
-    "Individuals/Intermediate Value Theorem.md",
-    "Individuals/Order of an element.md",
-    "Individuals/Order of a Group.md",
-    "Individuals/Examples of a cyclic subgroup.md",
-    "Individuals/Dihedral Group.md",
-    "Individuals/Trapezoid Rule.md",
-    "Mathematics/Category.md",
-    "Individuals/Degree of Precision.md",
-    "Individuals/Quadrature Rules.md",
     "Computing Science"
   ]
 }

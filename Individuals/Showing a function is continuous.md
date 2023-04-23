@@ -1,7 +1,7 @@
 **Tags:** #Theorem 
 
 > [!Theorem]+ Thm: [[Showing a function is continuous]]
-> A function $f$ is continuous is for all $\epsilon>0$, there exists some $\delta>0$ such that for all $x \in A$ for which $0<\lvert x-c \rvert <\delta$, we have 
+> A function $f$ is continuous is for all $\epsilon>0$, there exists some $\delta>0$ such that for all $x \in A$ for which $0<\lvert x-a \rvert <\delta$, we have 
 > $$\lvert f(x)-f(a) \rvert < \epsilon$$
 
 ^10a4ec
